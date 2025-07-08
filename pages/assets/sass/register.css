@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: url('../images/BG.jpg') no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeInBody 1.5s ease forwards;
+}
+
+@keyframes fadeInBody {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.register-container {
+    background: rgba(248, 248, 248, 0.15);
+    backdrop-filter: blur(18px);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 18px;
+    padding: 44px 34px 32px 34px;
+    width: 370px;
+    color: #fff;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    text-align: center;
+    transition: box-shadow 0.3s;
+    opacity: 0;
+    transform: translateY(40px);
+    animation: slideUp 1.2s ease forwards;
+    animation-delay: 0.3s;
+}
+
+@keyframes slideUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.register-container:hover {
+    box-shadow: 0 12px 40px 0 rgba(0, 0, 0, 0.47);
+}
+
+.register-container h2 {
+    margin-bottom: 28px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.form-group {
+    margin-bottom: 22px;
+    text-align: left;
+}
+
+.form-group label {
+    font-weight: 500;
+    font-size: 15px;
+    color: #f3f3f3;
+    letter-spacing: 0.5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 11px 13px;
+    margin-top: 8px;
+    border: none;
+    border-radius: 9px;
+    outline: none;
+    background: rgba(255, 255, 255, 0.22);
+    color: #fff;
+    font-size: 15px;
+    transition: background 0.2s;
+    resize: none;
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+    color: #e0e0e0;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    background: rgba(255,255,255,0.35);
+}
+
+.register-button {
+    background: linear-gradient(90deg, #eec372 0%, #ffffff 100%);
+    color: #333;
+    border: none;
+    border-radius: 30px;
+    width: 100%;
+    padding: 13px;
+    font-size: 17px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.register-button:hover {
+    background: linear-gradient(90deg, #ffffff 0%, #ffda95 100%);
+    color: #000000;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
+}
+
+.login-link {
+    margin-top: 22px;
+    font-size: 14px;
+    color: #f3f3f3;
+}
+
+.login-link a {
+    color: #ffe082;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.login-link a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+    .register-container {
+        width: 95vw;
+        padding: 30px 10px 20px 10px;
+    }
+    .register-container h2 {
+        font-size: 25px;
+    }
+}
