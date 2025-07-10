@@ -34,19 +34,22 @@ class User extends Connection {
         }
     }   
 
-    public function ValidateEmail($inputEmail) {
-        $sql = "SELECT * FROM user WHERE email = '$inputEmail'";
-        $result = mysqli_query($this->connection, $sql);
-        
-        if (mysqli_num_rows ($result) == 1) {
-            $row = mysqli_fetch_assoc($result);
-            $this->userid = $row['userid'];
-            $this->email = $row['email'];
-            $this->password = $row['password'];
-            $this->name = $row['name'];
-            $this->role = $row['role'];
-			$this->address = $row['address'];
+public function ValidateEmail($inputEmail) {
+    $sql = "SELECT * FROM user WHERE email = '$inputEmail'";
+    $result = mysqli_query($this->connection, $sql);
 
-        } 
+    if (mysqli_num_rows($result) == 1) {
+        $row = mysqli_fetch_assoc($result);
+        $this->userid = $row['userid'];
+        $this->email = $row['email'];
+        $this->password = $row['password'];
+        $this->name = $row['name'];
+        $this->role = $row['role'];
+        $this->address = $row['address'];
+        $this->hasil = true;    // PENTING!
+    } else {
+        $this->hasil = false;   // PENTING!
     }
+}
+
 }

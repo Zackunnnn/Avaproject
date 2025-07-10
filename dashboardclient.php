@@ -67,7 +67,7 @@ if (!isset($_SESSION)) {
                             </div>
                             <div class="col-lg-2 col-md-6 col-6">
                                 <div class="navbar-header">
-                                    <a class="navbar-brand" href="index.php?p=index-2"><img src="assets/images/logo_white.png"
+                                    <a class="navbar-brand" href="dashboardclient.php?p=index-2"><img src="assets/images/logo_white.png"
                                             alt="logo"></a>
                                 </div>
                             </div>
@@ -76,32 +76,31 @@ if (!isset($_SESSION)) {
                                     <button class="menu-close"><i class="ti-close"></i></button>
                                     <ul class="nav navbar-nav mb-2 mb-lg-0">
                                         <li class="menu-item-has-children">
-                                            <a class="active" href="index.php?p=index-2" style="color: white">Home</a>
+                                            <a class="active" href="dashboardclient.php?p=index-2" style="color: white">Home</a>
                                         </li>
-                                        <li><a href="index.php?p=about">about us</a></li>
+                                        <li><a href="dashboardclient.php?p=about">about us</a></li>
                                         <li class="menu-item-has-children">
-                                            <a href="index.php?p=service-3">Services</a>
+                                            <a href="dashboardclient.php?p=service-3">Services</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="index.php?p=property-2">Property</a>
+                                            <a href="dashboardclient.php?p=property-2">Property</a>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="#">Pages</a>
                                             <ul class="sub-menu">
-                                                <li><a href="index.php?p=about">About</a></li>
-                                                <li><a href="index.php?p=shop">Shop</a></li>
-                                                <li><a href="index.php?p=cart">Cart</a></li>
-                                                <li><a href="index.php?p=checkout">Checkout</a></li>
-                                                <li><a href="index.php?p=404">404 Error</a></li>
-                                                <li><a href="index.php?p=faq">FAQ</a></li>
+                                                <li><a href="dashboardclient.php?p=about">About</a></li>
+                                                <li><a href="dashboardclient.php?p=shop">Shop</a></li>
+                                                <li><a href="dashboardclient.php?p=cart">Cart</a></li>
+                                                <li><a href="dashboardclient.php?p=checkout">Checkout</a></li>
+                                                <li><a href="dashboardclient.php?p=404">404 Error</a></li>
+                                                <li><a href="dashboardclient.php?p=faq">FAQ</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="index.php?p=blog-fullwidth">Blog</a>
+                                            <a href="dashboardclient.php?p=blog-fullwidth">Blog</a>
                                         </li>
-                                        <li><a href="index.php?p=contact">Contact</a></li>
-                                        <li><a href="index.php?p=login">Login</a></li>
-                                        <li><a href="index.php?p=register">Register</a></li>
+                                        <li><a href="dashboardclient.php?p=contact">Contact</a></li>
+                                        <li><a href="dashboardclient.php?p=logout">Logout</a></li>
                                     </ul>
                                 </div><!-- end of nav-collapse -->
                             </div>
@@ -186,37 +185,37 @@ if (!isset($_SESSION)) {
                                         </div>
                                         <div class="instagram-wrap">
                                             <div class="instagram-item">
-                                                <a href="index.php?p=property-single">
+                                                <a href="dashboardclient.php?p=property-single">
                                                     <img src="assets/images/instragram/1.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="index.php?p=property-single">
+                                                <a href="dashboardclient.php?p=property-single">
                                                     <img src="assets/images/instragram/2.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="index.php?p=property-single">
+                                                <a href="dashboardclient.php?p=property-single">
                                                     <img src="assets/images/instragram/3.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="index.php?p=property-single">
+                                                <a href="dashboardclient.php?p=property-single">
                                                     <img src="assets/images/instragram/4.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="index.php?p=property-single">
+                                                <a href="dashboardclient.php?p=property-single">
                                                     <img src="assets/images/instragram/5.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="index.php?p=property-single">
+                                                <a href="dashboardclient.php?p=property-single">
                                                     <img src="assets/images/instragram/6.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>

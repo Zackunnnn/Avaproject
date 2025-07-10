@@ -108,8 +108,8 @@ if (isset($_SESSION["role"])) {
                                             <a href="index.php?p=blog-fullwidth">Blog</a>
                                         </li>
                                         <li><a href="index.php?p=contact">Contact</a></li>
-                                        <li><a href="index.php?p=login">Login</a></li>
-                                        <li><a href="index.php?p=register">Register</a></li>
+                                        <li><a href="login.php">Login</a></li>
+                                        <li><a href="register.php">Register</a></li>
                                     </ul>
                                 </div><!-- end of nav-collapse -->
                             </div>
