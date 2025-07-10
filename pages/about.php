@@ -1,4 +1,3 @@
-<?php include 'header.php'; ?>
 
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -265,37 +264,3 @@
             </div>
         </section>
         <!-- end wpo-plan-section-->
-
-        <!-- wpo-partners-area-start -->
-        <section class="partners-section pt-0">
-            <h2 class="hidden">partner</h2>
-            <div class="container">
-                <div class="row">
-                    <div class="col col-xs-12">
-                        <div class="partner-grids partners-slider owl-carousel clearfix">
-                            <div class="grid">
-                                <img src="assets/images/partners/img-1.png" alt="">
-                            </div>
-                            <div class="grid">
-                                <img src="assets/images/partners/img-2.png" alt="">
-                            </div>
-                            <div class="grid">
-                                <img src="assets/images/partners/img-3.png" alt="">
-                            </div>
-                            <div class="grid">
-                                <img src="assets/images/partners/img-4.png" alt="">
-                            </div>
-                            <div class="grid">
-                                <img src="assets/images/partners/img-5.png" alt="">
-                            </div>
-                            <div class="grid">
-                                <img src="assets/images/partners/img-6.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- end contianer -->
-        </section>
-        <!-- partners-area-end -->
-
-<?php include 'footer.php'; ?>

@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
             <div class="container">
@@ -24,11 +24,11 @@
                         <div class="shop-grids clearfix">
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Bev-Accent-Chair.jpg" alt>
+                                    <img src="assets/images/shop/shop7.jpg" alt>
                                 </div>
                                 <div class="details">
-                                    <h3><a href="shop-single.php">Design logo</a></h3>
-                                    <span>Rp.500.000 - Rp.5.000.000</span>
+                                    <h3><a href="shop-single.php">Custom Box</a></h3>
+                                    <span>Rp.80.000 - Rp.150.000</span>
                                     <div class="add-to-cart">
                                         <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
@@ -36,10 +36,10 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Black-Timber-Chairs.jpg" alt>
+                                    <img src="assets/images/shop/shop2.jpg" alt>
                                 </div>
                                 <div class="details">
-                                    <h3><a href="shop-single.php">Custom Gantungan Kunci Resin</a></h3>
+                                    <h3><a href="shop-single.php">Custom Gantungan Kunci</a></h3>
                                     <span>Rp.13.000 - Rp.25.000</span>
                                     <div class="add-to-cart">
                                         <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
@@ -48,10 +48,10 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Marble-Side-Table.jpg" alt>
+                                    <img src="assets/images/shop/shop5.jpg" alt>
                                 </div>
                                 <div class="details">
-                                    <h3><a href="shop-single.php">Custom Kaos</a></h3>
+                                    <h3><a href="shop-single.php">Custom Kaos DTF</a></h3>
                                     <span>Rp.75.000 - Rp.100.000</span>
                                     <div class="add-to-cart">
                                         <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
@@ -60,7 +60,7 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Polygonal-Vase.jpg" alt>
+                                    <img src="assets/images/shop/shop6.jpg" alt>
                                 </div>
                                 <div class="details">
                                     <h3><a href="shop-single.php">Custom Kemeja</a></h3>
@@ -72,11 +72,11 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Steel-Computer-Chair.jpg" alt>
+                                    <img src="assets/images/shop/shop8.jpg" alt>
                                 </div>
                                 <div class="details">
-                                    <h3><a href="shop-single.php">Custom Box</a></h3>
-                                    <span>Rp.40.000 - Rp.80.000</span>
+                                    <h3><a href="shop-single.php">Standing Pouch</a></h3>
+                                    <span>Rp.6.000 - Rp.15.000</span>
                                     <div class="add-to-cart">
                                         <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
@@ -84,7 +84,7 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Wood-Annabel-Chair.jpg" alt>
+                                    <img src="assets/images/shop/shop3.jpg" alt>
                                 </div>
                                 <div class="details">
                                     <h3><a href="shop-single.php">Custom Lanyard</a></h3>
@@ -96,7 +96,7 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Wood-Annabel-Chair.jpg" alt>
+                                    <img src="assets/images/shop/shop4.jpg" alt>
                                 </div>
                                 <div class="details">
                                     <h3><a href="shop-single.php">Custom ID Card</a></h3>
@@ -108,11 +108,11 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Wood-Annabel-Chair.jpg" alt>
+                                    <img src="assets/images/shop/shop9.jpg" alt>
                                 </div>
                                 <div class="details">
-                                    <h3><a href="shop-single.php">Custom Stiker Chrome & Vinyl</a></h3>
-                                    <span>Rp.17.000 /pcs</span>
+                                    <h3><a href="shop-single.php">Custom Tote Bag</a></h3>
+                                    <span>Rp.75.000 /pcs</span>
                                     <div class="add-to-cart">
                                         <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
@@ -120,11 +120,11 @@
                             </div>
                             <div class="grid">
                                 <div class="img-holder">
-                                    <img src="assets/images/shop/Wood-Annabel-Chair.jpg" alt>
+                                    <img src="assets/images/shop/shop1.jpg" alt>
                                 </div>
                                 <div class="details">
-                                    <h3><a href="shop-single.php">Custom Name Card</a></h3>
-                                    <span>Rp.100.000 /100pcs</span>
+                                    <h3><a href="shop-single.php">Custom Polo</a></h3>
+                                    <span>Rp.130.000 /100pcs</span>
                                     <div class="add-to-cart">
                                         <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
@@ -136,4 +136,3 @@
             </div> <!-- end container -->
         </section>
         <!-- end wpo-shop-section -->
-<?php include 'footer.php'; ?>

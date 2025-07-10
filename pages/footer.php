@@ -36,11 +36,6 @@
                                                         <i class="ti-wa"></i>
                                                     </a>
                                                 </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="ti-pinterest"></i>
-                                                    </a>
-                                                </li>
                                             </ul>
                                         </div>
                                     </div>
@@ -53,37 +48,37 @@
                                         <div class="instagram-wrap">
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/1.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter1.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/2.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter2.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/3.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter3.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/4.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter4.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/5.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter5.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/6.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter6.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>

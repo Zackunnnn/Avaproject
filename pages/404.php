@@ -1,4 +1,3 @@
-<?php include 'header.php'; ?>
 
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -25,7 +24,7 @@
                     <div class="col col-xs-12">
                         <div class="content clearfix">
                             <div class="error">
-                                <img src="assets/images/error-404.png" alt>
+                                <img src="assets/images/404.jpg" alt>
                             </div>
                             <div class="error-message">
                                 <p>We’re sorry but we can’t seem to find the page you requested. This might be because
@@ -38,5 +37,3 @@
             </div> <!-- end container -->
         </section>
         <!-- end error-404-section -->
-
-<?php include 'footer.php'; ?>

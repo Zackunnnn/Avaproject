@@ -1,11 +1,10 @@
-<?php include 'header.php'; ?>
 
         <!-- start of wpo-hero-section-1 -->
         <section class="wpo-hero-slider first-section">
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/land.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/home.jpg">
                             <div class="container">
                                 <div class="slide-content">
                                     <div data-swiper-parallax="300" class="slide-title-sub">
@@ -24,14 +23,14 @@
                     </div> <!-- end swiper-slide -->
 
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/land.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/home.jpg">
                             <div class="container">
                                 <div class="slide-content">
                                     <div data-swiper-parallax="300" class="slide-title-sub">
-                                        <span><i class="fi flaticon-placeholder"></i> Tucson, Arizona(AZ), 85719</span>
+                                        <span><i class="fi flaticon-placeholder"></i> DKI Jakarta, Indonesia</span>
                                     </div>
                                     <div data-swiper-parallax="300" class="slide-title">
-                                        <h2>One-Stop Branding Solution</h2>
+                                        <h2>Kami Hadir untuk Membantu Bisnismu Tampil Berbeda.</h2>
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
@@ -42,32 +41,14 @@
                         </div> <!-- end slide-inner -->
                     </div> <!-- end swiper-slide -->
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/land.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/home.jpg">
                             <div class="container">
                                 <div class="slide-content">
                                     <div data-swiper-parallax="300" class="slide-title-sub">
-                                        <span><i class="fi flaticon-placeholder"></i> Tucson, Arizona(AZ), 85719</span>
+                                        <span><i class="fi flaticon-placeholder"></i> DKI Jakarta, Indonesia</span>
                                     </div>
                                     <div data-swiper-parallax="300" class="slide-title">
-                                        <h2>Your Exclusive Haven of Luxury and Comfort</h2>
-                                    </div>
-                                    <div class="clearfix"></div>
-                                    <div data-swiper-parallax="500" class="slide-btns">
-                                        <a href="about.php" class="theme-btn">get started</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> <!-- end slide-inner -->
-                    </div> <!-- end swiper-slide -->
-                    <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/land.jpg">
-                            <div class="container">
-                                <div class="slide-content">
-                                    <div data-swiper-parallax="300" class="slide-title-sub">
-                                        <span><i class="fi flaticon-placeholder"></i> Tucson, Arizona(AZ), 85719</span>
-                                    </div>
-                                    <div data-swiper-parallax="300" class="slide-title">
-                                        <h2>Your Exclusive Haven of Luxury and Comfort</h2>
+                                        <h2>Bukan Sekadar Desain, Tapi Representasi Dirimu.</h2>
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
@@ -84,14 +65,6 @@
                 <div class="swiper-pagination"></div>
                 <div class="swiper-button-next"></div>
                 <div class="swiper-button-prev"></div>
-            </div>
-            <div class="hero-right-video">
-                <div class="hero-right-video-wrap">
-                    <div class="circular-text text-roted">
-                        <p class="text">Watch Intro Video</p>
-                        <a href="https://www.youtube.com/embed/NjIkTXmPycY" class="video-btn" data-type="iframe"></a>
-                    </div>
-                </div>
             </div>
         </section>
         <!-- end of wpo-hero-slide-section-->
@@ -134,7 +107,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="left-img">
-                            <img src="assets/images/service/left.jpg" alt="">
+                            <img src="assets/images/service/aaa.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-lg-8">
@@ -147,7 +120,7 @@
                                 </div>
                                 <div class="col-lg-5">
                                     <div class="wpo-section-title-img">
-                                        <img src="assets/images/service/title2.jpg" alt="">
+                                        <img src="assets/images/service/bbb.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -156,11 +129,11 @@
                                     <div class="col-lg-6 col-md-6 col-12">
                                         <div class="wpo-service-item">
                                             <div class="wpo-service-icon">
-                                                <span><img src="assets/images/service/1.svg" alt=""></span>
+                                                <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Logo Design</a></h3>
-                                                <p>Kami menciptakan logo yang tak hanya estetis, tapi juga mencerminkan identitas dan nilai brand Anda secara menyeluruh.
+                                                <h3><a href="service-3.php">Design Logo</a></h3>
+                                                <p>Kami menciptakan logo yang pasti menarik secara visual, tetapi juga merepresentasikan identitas dan nilai inti dari brand Anda.
                                                 </p>
                                             </div>
                                         </div>
@@ -168,11 +141,11 @@
                                     <div class="col-lg-6 col-md-6 col-12">
                                         <div class="wpo-service-item">
                                             <div class="wpo-service-icon">
-                                                <span><img src="assets/images/service/2.svg" alt=""></span>
+                                                <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Lanyard</a></h3>
-                                                <p>Desain lanyard kustom yang stylish dan profesional, cocok untuk event, perusahaan, maupun kebutuhan komunitas Anda.
+                                                <h3><a href="service-3.php">Business Kit</a></h3>
+                                                <p>Paket lengkap untuk kebutuhan branding bisnis Anda terdiri dari kartu nama, kop surat, dan elemen visual lainnya yang profesional
                                                 </p>
                                             </div>
                                         </div>
@@ -180,11 +153,11 @@
                                     <div class="col-lg-6 col-md-6 col-12">
                                         <div class="wpo-service-item">
                                             <div class="wpo-service-icon">
-                                                <span><img src="assets/images/service/3.svg" alt=""></span>
+                                                <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
                                                 <h3><a href="service-3.php">Calligraphy</a></h3>
-                                                <p>Sentuhan artistik pada setiap huruf, menciptakan karya seni yang unik dan personal untuk brand Anda.
+                                                <p>Kaligrafi digital dan manual untuk berbagai kebutuhan estetika seperti hiasan rumah, undangan, dekorasi, hingga branding eksklusif.
                                                 </p>
                                             </div>
                                         </div>
@@ -192,11 +165,11 @@
                                     <div class="col-lg-6 col-md-6 col-12">
                                         <div class="wpo-service-item">
                                             <div class="wpo-service-icon">
-                                                <span><img src="assets/images/service/4.svg" alt=""></span>
+                                                <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Merchandise</a></h3>
-                                                <p>Dari ide ke produk : kami bantu wujudkan desain merchandise menarik untuk promosi, komunitas, atau brand Anda.
+                                                <h3><a href="service-3.php">Clothing</a></h3>
+                                                <p>Desain pakaian kustom yang mencerminkan karakter brand Anda, cocok untuk komunitas, promosi, hingga kebutuhan perusahaan.
                                                 </p>
                                             </div>
                                         </div>
@@ -204,11 +177,11 @@
                                     <div class="col-lg-6 col-md-6 col-12">
                                         <div class="wpo-service-item">
                                             <div class="wpo-service-icon">
-                                                <span><img src="assets/images/service/5.svg" alt=""></span>
+                                                <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Uniform</a></h3>
-                                                <p>Desain seragam yang fungsional dan estetik—kami menggabungkan kenyamanan dengan branding visual yang kuat.
+                                                <h3><a href="service-3.php">Packaging Product</a></h3>
+                                                <p>Desain kemasan produk yang menarik dan fungsional—membantu meningkatkan daya tarik visual dan nilai jual produk Anda.
                                                 </p>
                                             </div>
                                         </div>
@@ -216,11 +189,11 @@
                                     <div class="col-lg-6 col-md-6 col-12">
                                         <div class="wpo-service-item">
                                             <div class="wpo-service-icon">
-                                                <span><img src="assets/images/service/6.svg" alt=""></span>
+                                                <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Design Character</a></h3>
-                                                <p>Karakter dan maskot orisinal yang mencerminkan kepribadian brand Anda—unik, memorable, dan penuh ekspresi.
+                                                <h3><a href="service-3.php">Mascot Character</a></h3>
+                                                <p>Karakter atau maskot unik yang dibuat khusus untuk merepresentasikan kepribadian brand Anda—ikonik, berkesan, dan penuh ekspresi.
                                                 </p>
                                             </div>
                                         </div>
@@ -365,7 +338,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="wpo-plan-img">
-                            <img src="assets/images/plan/plan-2.png" alt="">
+                            <img src="assets/images/plan/member.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -536,7 +509,7 @@
                         <div class="testimonial-top-wrap">
                             <div class="testimonial-left-item">
                                 <div class="image">
-                                    <img src="assets/images/testimonial/1.jpg" alt="">
+                                    <img src="assets/images/testimonial/t1.jpg" alt="">
                                 </div>
                                 <div class="text">
                                     <h4>Aulia Puspita</h4>
@@ -562,7 +535,7 @@
                         <div class="testimonial-top-wrap">
                             <div class="testimonial-left-item">
                                 <div class="image">
-                                    <img src="assets/images/testimonial/1.jpg" alt="">
+                                    <img src="assets/images/testimonial/t2.jpg" alt="">
                                 </div>
                                 <div class="text">
                                     <h4>Abdul Hamid</h4>
@@ -587,7 +560,7 @@
                         <div class="testimonial-top-wrap">
                             <div class="testimonial-left-item">
                                 <div class="image">
-                                    <img src="assets/images/testimonial/2.jpg" alt="">
+                                    <img src="assets/images/testimonial/t3.jpg" alt="">
                                 </div>
                                 <div class="text">
                                     <h4>Al Djufri Family</h4>
@@ -866,5 +839,5 @@
             </div>
         </section>
         <!-- end wpo-blog-section -->
-<?php include 'footer.php'; ?>
+
 

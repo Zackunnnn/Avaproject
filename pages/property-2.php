@@ -1,4 +1,3 @@
-<?php include 'header.php'; ?>
 
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -104,4 +103,3 @@
             </div>
         </section>
         <!-- end of wpo-property-section -->
-<?php include 'footer.php'; ?>

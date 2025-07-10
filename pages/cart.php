@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
             <div class="container">
@@ -37,7 +37,7 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td class="images"><img src="assets/images/cart/img-1.jpg" alt=""></td>
+                                                <td class="images"><img src="assets/images/cart/polo.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
                                                         <li class="first-cart"> Custom Polo Shirt</li>
@@ -61,7 +61,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="images"><img src="assets/images/cart/img-2.jpg" alt=""></td>
+                                                <td class="images"><img src="assets/images/cart/kemeja.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
                                                         <li class="first-cart">Custom Kemeja</li>
@@ -85,7 +85,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="images"><img src="assets/images/cart/img-3.jpg" alt=""></td>
+                                                <td class="images"><img src="assets/images/cart/lanyard.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
                                                         <li class="first-cart">Custom Lanyard</li>
@@ -109,7 +109,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="images"><img src="assets/images/cart/img-4.jpg" alt=""></td>
+                                                <td class="images"><img src="assets/images/cart/idcard.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
                                                         <li class="first-cart">Custom ID Card</li>
@@ -133,10 +133,10 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="images"><img src="assets/images/cart/img-5.jpg" alt=""></td>
+                                                <td class="images"><img src="assets/images/cart/gantungan.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
-                                                        <li class="first-cart">Custom Gantungan Kunci Resin</li>
+                                                        <li class="first-cart">Custom Gantungan Kunci</li>
                                                         <li>80 pcs</li>
                                                     </ul>
                                                 </td>
@@ -187,4 +187,3 @@
             </div>
         </div>
         <!-- cart-area end -->
-<?php include 'footer.php'; ?>

@@ -1,4 +1,3 @@
-<?php include 'header.php'; ?>
 
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -26,7 +25,7 @@
                         <div class="wpo-blog-content">
                             <div class="post format-standard-image">
                                 <div class="entry-media">
-                                    <img src="assets/images/blog/img-5.jpg" alt>
+                                    <img src="assets/images/blog/baner1.jpg" alt>
                                 </div>
                                 <div class="entry-meta">
                                     <ul>
@@ -60,9 +59,7 @@
 
                             <div class="post format-gallery">
                                 <div class="entry-media">
-                                    <div class="post-slider owl-carousel">
-                                        <img src="assets/images/blog/img-6.jpg" alt>
-                                        <img src="assets/images/blog/img-5.jpg" alt>
+                                        <img src="assets/images/blog/baner.jpg" alt>
                                     </div>
 
                                 </div>
@@ -86,4 +83,3 @@
             </div> <!-- end container -->
         </section>
         <!-- end wpo-blog-pg-section -->
-<?php include 'footer.php'; ?>

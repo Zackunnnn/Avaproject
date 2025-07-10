@@ -1,4 +1,3 @@
-<?php include 'header.php'; ?>
 
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -18,7 +17,7 @@
         </section>
         <!-- end page-title -->
 
-       <!-- start wpo-service-section -->
+<!-- start wpo-service-section -->
 <section class="wpo-service-section-s3 section-padding">
     <div class="container">
         <div class="row justify-content-center">
@@ -33,66 +32,66 @@
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="wpo-service-item">
                         <div class="wpo-service-icon">
-                            <span><img src="assets/images/service/1.svg" alt=""></span>
+                            <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Logo Design</a></h3>
-                            <p>Kami menciptakan logo yang tak hanya estetis, tapi juga mencerminkan identitas dan nilai brand Anda secara menyeluruh.</p>
+                            <h3><a href="shop.php">Design Logo</a></h3>
+                            <p>Kami menciptakan logo yang pasti menarik secara visual, tetapi juga merepresentasikan identitas dan nilai inti dari brand Anda.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="wpo-service-item">
                         <div class="wpo-service-icon">
-                            <span><img src="assets/images/service/2.svg" alt=""></span>
+                            <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Lanyard</a></h3>
-                            <p>Desain lanyard kustom yang stylish dan profesional, cocok untuk event, perusahaan, maupun kebutuhan komunitas Anda.</p>
+                            <h3><a href="shop.php">Business Kit</a></h3>
+                            <p>Paket lengkap untuk kebutuhan branding bisnis Anda terdiri dari kartu nama, kop surat, dan elemen visual lainnya yang profesional.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="wpo-service-item">
                         <div class="wpo-service-icon">
-                            <span><img src="assets/images/service/3.svg" alt=""></span>
+                            <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
                             <h3><a href="shop.php">Calligraphy</a></h3>
-                            <p>Sentuhan artistik melalui kaligrafi digital dan manual untuk undangan, dekorasi, branding, dan konten estetik lainnya.</p>
+                            <p>Kaligrafi digital dan manual untuk berbagai kebutuhan estetika seperti hiasan rumah, undangan, dekorasi, hingga branding eksklusif.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="wpo-service-item">
                         <div class="wpo-service-icon">
-                            <span><img src="assets/images/service/4.svg" alt=""></span>
+                            <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Merchandise</a></h3>
-                            <p>Dari ide ke produk: kami bantu wujudkan desain merchandise menarik untuk promosi, komunitas, atau brand Anda.</p>
+                            <h3><a href="shop.php">Clothing</a></h3>
+                            <p>Desain pakaian kustom yang mencerminkan karakter brand Anda, cocok untuk komunitas, promosi, hingga kebutuhan perusahaan.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="wpo-service-item">
                         <div class="wpo-service-icon">
-                            <span><img src="assets/images/service/5.svg" alt=""></span>
+                            <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Uniform</a></h3>
-                            <p>Desain seragam yang fungsional dan estetik—kami menggabungkan kenyamanan dengan branding visual yang kuat.</p>
+                            <h3><a href="shop.php">Packaging Product</a></h3>
+                            <p>Desain kemasan produk yang menarik dan fungsional—membantu meningkatkan daya tarik visual dan nilai jual produk Anda.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="wpo-service-item">
                         <div class="wpo-service-icon">
-                            <span><img src="assets/images/service/6.svg" alt=""></span>
+                            <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
                             <h3><a href="shop.php">Mascot/Character Design</a></h3>
-                            <p>Karakter dan maskot orisinal yang mencerminkan kepribadian brand Anda—unik, memorable, dan penuh ekspresi.</p>
+                            <p>Karakter atau maskot unik yang dibuat khusus untuk merepresentasikan kepribadian brand Anda—ikonik, berkesan, dan penuh ekspresi.</p>
                         </div>
                     </div>
                 </div>
@@ -101,4 +100,3 @@
     </div>
 </section>
 <!-- end wpo-service-section-->
-<?php include 'footer.php'; ?>
