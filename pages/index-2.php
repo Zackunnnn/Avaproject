@@ -101,27 +101,27 @@
             <div class="container">
                 <div class="features-content-inner">
                     <div class="features-content-item">
-                        <h2 style="color: rgb(70, 10, 10);">5</h2>
-                        <span>bed room</span>
+                        <h2 style="color: rgb(70, 10, 10);">70+</h2>
+                        <span>Current Clients</span>
                     </div>
                     <div class="features-content-item">
-                        <h2 style="color: rgb(70, 10, 10);">2</h2>
-                        <span>full baths</span>
+                        <h2 style="color: rgb(70, 10, 10);">70+</h2>
+                        <span>Project Completed</span>
                     </div>
                     <div class="features-content-item">
-                        <h2 style="color: rgb(70, 10, 10);">4</h2>
-                        <span>half baths</span>
+                        <h2 style="color: rgb(70, 10, 10);">12+</h2>
+                        <span>Years of Experience</span>
                     </div>
                     <div class="features-content-item">
-                        <h2 style="color: rgb(70, 10, 10);">2</h2>
-                        <span>car parking</span>
+                        <h2 style="color: rgb(70, 10, 10);">90+</h2>
+                        <span>Design Assets</span>
                     </div>
                     <div class="features-content-item">
-                        <h2 style="color: rgb(70, 10, 10);">6,382</h2>
-                        <span>square feet</span>
+                        <h2 style="color: rgb(70, 10, 10);">1.146</h2>
+                        <span>Total Item Design</span>
                     </div>
                     <div class="features-content-item">
-                        <a href="property.php" class="theme-btn">take a tour</a>
+                        <a href="blog.php" class="theme-btn" style="color: white;">Show More</a>
                     </div>
                 </div>
             </div>
