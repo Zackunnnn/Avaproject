@@ -1,16 +1,8 @@
 <?php
-if(!isset($_SESSION)) {
+if (!isset($_SESSION)) {
     session_start();
 }
-if (isset($_SESSION["role"])) {
-    if($_SESSION["role"] == 'admin') {
-        echo "<script>window.location='dashboardadmin.php';</script>";
-    } else if($_SESSION["role"] == 'client') {
-        echo "<script>window.location='dashboardclient.php';</script>";
-    }  else {
-        echo '<script>window.location="index.php";</script>';
-    }
-}
+    require_once('pages/authorization_client.php');
     require "inc.koneksi.php";
 ?>
 
@@ -23,7 +15,7 @@ if (isset($_SESSION["role"])) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="wpOceans">
     <link rel="shortcut icon" type="image/png" href="pages/assets/images/favicon.png">
-    <title> avastudio.id</title>
+    <title>avastudio.id</title>
     <link href="pages/assets/css/themify-icons.css" rel="stylesheet">
     <link href="pages/assets/css/flaticon.css" rel="stylesheet">
     <link href="pages/assets/css/bootstrap.min.css" rel="stylesheet">
@@ -287,3 +279,7 @@ if (isset($_SESSION["role"])) {
 </body>
 
 </html>
+
+
+
+

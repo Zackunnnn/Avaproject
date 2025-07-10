@@ -5,7 +5,7 @@ class Connection{
    private $host = "localhost";
    private $struser = "root";
    private $strpassword = "";
-   private $strdbname = "company2";   
+   private $strdbname = "avaproject";   
    public $connection;
       
 	function __construct() {
@@ -20,3 +20,4 @@ class Connection{
 	}
 }
 ?> 
+

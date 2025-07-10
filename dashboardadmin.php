@@ -1,78 +1,285 @@
-<?php 
- 	require_once('pages/authorization_admin.php'); 		
-	require "inc.koneksi.php";			
+<?php
+if (!isset($_SESSION)) {
+    session_start();
+}
+    require_once('pages/authorization_admin.php');
+    require "inc.koneksi.php";
 ?>
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zxx">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dashboard Admin</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">		
-	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">  
-	<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>		
-	<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
-
+    <meta name="author" content="wpOceans">
+    <link rel="shortcut icon" type="image/png" href="pages/assets/images/favicon.png">
+    <title> avastudio.id</title>
+    <link href="pages/assets/css/themify-icons.css" rel="stylesheet">
+    <link href="pages/assets/css/flaticon.css" rel="stylesheet">
+    <link href="pages/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="pages/assets/css/animate.css" rel="stylesheet">
+    <link href="pages/assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="pages/assets/css/owl.theme.css" rel="stylesheet">
+    <link href="pages/assets/css/slick.css" rel="stylesheet">
+    <link href="pages/assets/css/slick-theme.css" rel="stylesheet">
+    <link href="pages/assets/css/swiper.min.css" rel="stylesheet">
+    <link href="pages/assets/css/owl.transitions.css" rel="stylesheet">
+    <link href="pages/assets/css/jquery.fancybox.css" rel="stylesheet">
+    <link href="pages/assets/css/odometer-theme-default.css" rel="stylesheet">
+    <link href="pages/assets/sass/style.css" rel="stylesheet">
 </head>
+
 <body>
-<div class="example3">
-  <nav class="navbar navbar-inverse navbar-static-top blue">
-    <div class="container">
-      <div id="navbar3" class="navbar-collapse collapse">
-	    <ul class="nav navbar-nav"> 				            			
-			<li><a href="dashboardadmin.php">Home</a></li>
-			<li><a href="dashboardadmin.php?p=employeelist">Employee List</a></li>
-			<li><a href="dashboardadmin.php?p=departmentlist">Department List</a></li>
-			<li><a href="dashboardadmin.php?p=userlist">User List</a></li>
-			<li><a href="dashboardadmin.php?p=projectlist">Project List</a></li>
-			<li><a href="dashboardadmin.php?p=logout">Logout</a></li> 
-			            
-        </ul>
-      </div>      
-    </div>
-  </nav>
+
+    <!-- start page-wrapper -->
+    <div class="page-wrapper">
+        <!-- start preloader -->
+        <div class="preloader">
+            <div class="vertical-centered-box">
+                <div class="content">
+                    <div class="loader-circle"></div>
+                    <div class="loader-line-mask">
+                        <div class="loader-line"></div>
+                    </div>
+                    <img src="pages/assets/images/preloader.png" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- end preloader -->
+
+        <!-- start header -->
+        <header id="header">
+            <div class="wpo-site-header wpo-header-style-4">
+                <nav class="navigation navbar navbar-expand-lg navbar-light">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-lg-3 col-md-3 col-3 d-lg-none dl-block">
+                                <div class="mobail-menu">
+                                    <button type="button" class="navbar-toggler open-btn">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar first-angle"></span>
+                                        <span class="icon-bar middle-angle"></span>
+                                        <span class="icon-bar last-angle"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-6 col-6">
+                                <div class="navbar-header">
+                                    <a class="navbar-brand" href="index-2.php"><img src="pages/assets/images/logo_white.png"
+                                            alt="logo"></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-10 col-md-1 col-1">
+                                <div id="navbar" class="collapse navbar-collapse navigation-holder">
+                                    <button class="menu-close"><i class="ti-close"></i></button>
+                                    <ul class="nav navbar-nav mb-2 mb-lg-0">
+                                        <li class="menu-item-has-children">
+                                            <a class="active" href="index-2.php" style="color: white">Home</a>
+                                        </li>
+                                        <li><a href="about.php">about us</a></li>
+                                        <li class="menu-item-has-children">
+                                            <a href="service-3.php">Services</a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="property-2.php">Property</a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="#">Pages</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="about.php">About</a></li>
+                                                <li><a href="shop.php">Shop</a></li>
+                                                <li><a href="cart.php">Cart</a></li>
+                                                <li><a href="checkout.php">Checkout</a></li>
+                                                <li><a href="404.php">404 Error</a></li>
+                                                <li><a href="faq.php">FAQ</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="blog-fullwidth.php">Blog</a>
+                                        </li>
+                                        <li><a href="contact.php">Contact</a></li>
+                                        <li><a href="login.php">Login</a></li>
+                                        <li><a href="register.php">Register</a></li>
+                                    </ul>
+                                </div><!-- end of nav-collapse -->
+                            </div>
+                        </div>
+                    </div><!-- end of container -->
+                </nav>
+            </div>
+        </header>
+        <!-- end of header -->
+
+<!-- Container halaman -->
+<div class="container">
+    <?php
+        $pages_dir = 'pages';
+        if (!empty($_GET['p'])) {
+            $pages = scandir($pages_dir, 0);
+            unset($pages[0], $pages[1]);
+
+            $p = $_GET['p'];
+            if (in_array($p . '.php', $pages)) {
+                include($pages_dir . '/' . $p . '.php');
+            } else {
+                echo 'Halaman tidak ditemukan! :(';
+            }
+        } else {
+            include($pages_dir . '/index-2.php');
+        }
+    ?>
 </div>
-	<div class="container">		
-	<div style="margin-bottom:10px">
-	<?php
-	  echo "Welcome, <b>". $_SESSION["name"]."</b><br>";	
-	  echo "Anda login sebagai, <b>". $_SESSION["role"]."</b>";
-	?>
-	</div>
-		<?php
-				$pages_dir = 'pages';
-				if(!empty($_GET['p'])){
-					$pages = scandir($pages_dir, 0);
-					unset($pages[0], $pages[1]);
-					
-					$p = $_GET['p'];
-					if(in_array($p.'.php', $pages)){
-						include($pages_dir.'/'.$p.'.php');
-					} else {
-						echo 'Halaman tidak ditemukan! :(';
-					}
-				} else {
-					include($pages_dir.'/profile.php');
-				}
-		?>
-		
-		<footer class="page-footer blue center-on-small-only">       
-            <div class="footer-copyright text-center rgba-black-light">
-                <div class="container-fluid">
-                    © 2020 Copyright: <a href="https://www.esqbs.ac.id"> ESQ Business School </a>
+
+        <!-- start of wpo-site-footer-section -->
+        <footer class="wpo-site-footer-s2">
+            <div class="row">
+                <div class="col-lg-8 order-lg-1 order-2">
+                    <div class="wpo-upper-footer">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="widget newsletter-widget">
+                                        <div class="widget-title">
+                                            <h3>subscribe now</h3>
+                                        </div>
+                                        <form>
+                                            <div class="input-1">
+                                                <input type="email" class="form-control" placeholder="Enter your email:"
+                                                    required="">
+                                            </div>
+                                            <div class="submit clearfix">
+                                                <button type="submit">Subscribe now</button>
+                                            </div>
+                                        </form>
+                                        <div class="social">
+                                            <ul>
+                                                <li>
+                                                    <a href="https://www.facebook.com/varis.varis.752">
+                                                        <i class="ti-facebook"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.instagram.com/avadesign.id?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+                                                        <i class="ti-instagram"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://wa.me/6285772821484?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design">
+                                                        <i class="ti-wa"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="ti-pinterest"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col col-lg-6 col-md-6 col-sm-12 col-12">
+                                    <div class="widget instagram-widget">
+                                        <div class="widget-title">
+                                            <h3>photo gallery</h3>
+                                        </div>
+                                        <div class="instagram-wrap">
+                                            <div class="instagram-item">
+                                                <a href="property-single.php">
+                                                    <img src="pages/assets/images/instragram/1.jpg" alt="">
+                                                    <i class="ti-instagram"></i>
+                                                </a>
+                                            </div>
+                                            <div class="instagram-item">
+                                                <a href="property-single.php">
+                                                    <img src="pages/assets/images/instragram/2.jpg" alt="">
+                                                    <i class="ti-instagram"></i>
+                                                </a>
+                                            </div>
+                                            <div class="instagram-item">
+                                                <a href="property-single.php">
+                                                    <img src="pages/assets/images/instragram/3.jpg" alt="">
+                                                    <i class="ti-instagram"></i>
+                                                </a>
+                                            </div>
+                                            <div class="instagram-item">
+                                                <a href="property-single.php">
+                                                    <img src="pages/assets/images/instragram/4.jpg" alt="">
+                                                    <i class="ti-instagram"></i>
+                                                </a>
+                                            </div>
+                                            <div class="instagram-item">
+                                                <a href="property-single.php">
+                                                    <img src="pages/assets/images/instragram/5.jpg" alt="">
+                                                    <i class="ti-instagram"></i>
+                                                </a>
+                                            </div>
+                                            <div class="instagram-item">
+                                                <a href="property-single.php">
+                                                    <img src="pages/assets/images/instragram/6.jpg" alt="">
+                                                    <i class="ti-instagram"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!-- end container -->
+                    </div>
+                    <div class="wpo-lower-footer">
+                        <ul class="copyright">
+                            <li>Copyright & copy; 2025 <a href="#">Ava Design</a> || All Rights Reserved</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 order-lg-2 order-1">
+                    <div class="wpo-team-section">
+                        <div class="container">
+                            <h2>contact with our agent</h2>
+                            <div class="wpo-team-wrap-s2 owl-carousel">
+                                <div class="wpo-team-item">
+                                    <div class="wpo-team-content">
+                                        <p>Achmad Varis</p>
+                                        <span style="color:rgb(255, 214, 183);">Founder Ava Design</span>
+                                        <h3>+62-857-7282-1484</h3>
+                                        <small><b>E-mail:</b> varisananda971@gmail.com</small>
+                                    </div>
+                                </div>
+                                <div class="wpo-team-item">
+                                    <div class="wpo-team-content">
+                                        <p>Nabiel Syarof Azzaky</p>
+                                        <span style="color:rgb(255, 214, 183);">Admin Ava Design</span>
+                                        <h3>+62-858-8345-7724</h3>
+                                        <small><b>E-mail:</b> nabielsrfazky28@gmail.com</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </footer>
-	</div>	
-	<script>
-	$(document).ready( function () {
-    	$('.table').DataTable();
-	});
-	</script>
+        <!-- end of wpo-site-footer-section -->
+
+
+    </div>
+    <!-- end of page-wrapper -->
+
+    <!-- All JavaScript files
+    ================================================== -->
+    <script src="pages/assets/js/jquery.min.js"></script>
+    <script src="pages/assets/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugins for this template -->
+    <script src="pages/assets/js/modernizr.custom.js"></script>
+    <script src="pages/assets/js/payment-cal.js"></script>
+    <script src="pages/assets/js/jquery-plugin-collection.js"></script>
+    <!-- Custom script for this template -->
+    <script src="pages/assets/js/script.js"></script>
 </body>
+
 </html>
+
+
 
 
