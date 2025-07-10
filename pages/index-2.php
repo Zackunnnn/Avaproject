@@ -15,7 +15,7 @@
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
-                                        <a href="about.php" class="theme-btn">get started</a>
+                                        <a href="<?php echo $base_url; ?>about" class="theme-btn">get started</a>
                                     </div>
                                 </div>
                             </div>
@@ -34,7 +34,7 @@
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
-                                        <a href="about.php" class="theme-btn">get started</a>
+                                        <a href="<?php echo $base_url; ?>about" class="theme-btn">get started</a>
                                     </div>
                                 </div>
                             </div>
@@ -52,7 +52,7 @@
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
-                                        <a href="about.php" class="theme-btn">get started</a>
+                                        <a href="<?php echo $base_url; ?>about" class="theme-btn">get started</a>
                                     </div>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@
                         <span>Total Item Design</span>
                     </div>
                     <div class="features-content-item">
-                        <a href="about.php" class="theme-btn" style="color: white;">Show More</a>
+                        <a href="<?php echo $base_url; ?>about" class="theme-btn" style="color: white;">Show More</a>
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@
                                                 <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Design Logo</a></h3>
+                                                <h3><a href="<?php echo $base_url; ?>service-3">Design Logo</a></h3>
                                                 <p>Kami menciptakan logo yang pasti menarik secara visual, tetapi juga merepresentasikan identitas dan nilai inti dari brand Anda.
                                                 </p>
                                             </div>
@@ -144,7 +144,7 @@
                                                 <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Business Kit</a></h3>
+                                                <h3><a href="<?php echo $base_url; ?>service-3">Business Kit</a></h3>
                                                 <p>Paket lengkap untuk kebutuhan branding bisnis Anda terdiri dari kartu nama, kop surat, dan elemen visual lainnya yang profesional
                                                 </p>
                                             </div>
@@ -156,7 +156,7 @@
                                                 <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Calligraphy</a></h3>
+                                                <h3><a href="<?php echo $base_url; ?>service-3">Calligraphy</a></h3>
                                                 <p>Kaligrafi digital dan manual untuk berbagai kebutuhan estetika seperti hiasan rumah, undangan, dekorasi, hingga branding eksklusif.
                                                 </p>
                                             </div>
@@ -168,7 +168,7 @@
                                                 <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Clothing</a></h3>
+                                                <h3><a href="<?php echo $base_url; ?>service-3">Clothing</a></h3>
                                                 <p>Desain pakaian kustom yang mencerminkan karakter brand Anda, cocok untuk komunitas, promosi, hingga kebutuhan perusahaan.
                                                 </p>
                                             </div>
@@ -180,7 +180,7 @@
                                                 <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Packaging Product</a></h3>
+                                                <h3><a href="<?php echo $base_url; ?>service-3">Packaging Product</a></h3>
                                                 <p>Desain kemasan produk yang menarik dan fungsional—membantu meningkatkan daya tarik visual dan nilai jual produk Anda.
                                                 </p>
                                             </div>
@@ -192,7 +192,7 @@
                                                 <img src="assets/images/service/bulat.png" alt="">
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-3.php">Mascot Character</a></h3>
+                                                <h3><a href="<?php echo $base_url; ?>service-3">Mascot Character</a></h3>
                                                 <p>Karakter atau maskot unik yang dibuat khusus untuk merepresentasikan kepribadian brand Anda—ikonik, berkesan, dan penuh ekspresi.
                                                 </p>
                                             </div>
@@ -223,27 +223,27 @@
                                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link" id="basement-tab" data-bs-toggle="tab"
-                                                    href="#basement" role="tab" aria-controls="basement"
+                                                    href="<?php echo $base_url; ?>#basement" role="tab" aria-controls="basement"
                                                     aria-selected="true">Achmad Varis</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link active" id="ground-floor-tab" data-bs-toggle="tab"
-                                                    href="#ground-floor" role="tab" aria-controls="ground-floor"
+                                                    href="<?php echo $base_url; ?>#ground-floor" role="tab" aria-controls="ground-floor"
                                                     aria-selected="false">Najwa Sabilla</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link" id="first-floor-tab" data-bs-toggle="tab"
-                                                    href="#first-floor" role="tab" aria-controls="first-floor"
+                                                    href="<?php echo $base_url; ?>#first-floor" role="tab" aria-controls="first-floor"
                                                     aria-selected="false">Irfan Janur</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link" id="second-floor-tab" data-bs-toggle="tab"
-                                                    href="#second-floor" role="tab" aria-controls="second-floor"
+                                                    href="<?php echo $base_url; ?>#second-floor" role="tab" aria-controls="second-floor"
                                                     aria-selected="false">Naufal Ammr</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link" id="rooftop-tab" data-bs-toggle="tab"
-                                                    href="#rooftop" role="tab" aria-controls="rooftop"
+                                                    href="<?php echo $base_url; ?>#rooftop" role="tab" aria-controls="rooftop"
                                                     aria-selected="false">Nabiel Syarof</a>
                                             </li>
                                         </ul>
@@ -364,7 +364,7 @@
                             <img src="assets/images/property/a.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="shop.php">Custom ID Card & Lanyard</a></h2>
+                            <h2><a href="<?php echo $base_url; ?>shop">Custom ID Card & Lanyard</a></h2>
                             <span>Desain eksklusif untuk identitas perusahaan Anda</span>
                         </div>
                     </div>
@@ -373,7 +373,7 @@
                             <img src="assets/images/property/b.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="shop.php">Official AVA T-Shirt</a></h2>
+                            <h2><a href="<?php echo $base_url; ?>shop">Official AVA T-Shirt</a></h2>
                             <span>Apparel premium dengan branding elegan</span>
                         </div>
                     </div>
@@ -382,7 +382,7 @@
                             <img src="assets/images/property/c.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="shop.php">Minimalis Badge Holder</a></h2>
+                            <h2><a href="<?php echo $base_url; ?>shop">Minimalis Badge Holder</a></h2>
                             <span>Fungsional, cocok untuk event & perusahaan</span>
                         </div>
                     </div>
@@ -391,7 +391,7 @@
                             <img src="assets/images/property/d.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="shop.php">AVA Polo Corporate Edition</a></h2>
+                            <h2><a href="<?php echo $base_url; ?>shop">AVA Polo Corporate Edition</a></h2>
                             <span>Polo premium dengan branding elegan</span>
                         </div>
                     </div>
@@ -400,7 +400,7 @@
                             <img src="assets/images/property/e.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="shop.php">Exclusive Branded Merchandise</a></h2>
+                            <h2><a href="<?php echo $base_url; ?>shop">Exclusive Branded Merchandise</a></h2>
                             <span>Souvenir premium untuk branding perusahaan & hadiah klien</span>
                         </div>
                     </div>
@@ -409,7 +409,7 @@
                             <img src="assets/images/property/f.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="shop.php">Custom Product Packaging</a></h2>
+                            <h2><a href="<?php echo $base_url; ?>shop">Custom Product Packaging</a></h2>
                             <span>Kemasan elegan untuk hadiah, merchandise, atau produk</span>
                         </div>
                     </div>
@@ -808,8 +808,8 @@
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.php">Mengapa Branding Itu Penting: Lebih dari Sekadar Logo.</a></h2>
-                                <a class="read-more" href="blog-fullwidth.php">Read More</a>
+                                <h2><a href="<?php echo $base_url; ?>blog-single">Mengapa Branding Itu Penting: Lebih dari Sekadar Logo.</a></h2>
+                                <a class="read-more" href="<?php echo $base_url; ?>blog-fullwidth">Read More</a>
                             </div>
                         </div>
                         <div class="blog-item">
@@ -819,8 +819,8 @@
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.php">5 Desain Merchandise yang Menarik Perhatian Konsumen.</a></h2>
-                                <a class="read-more" href="blog-fullwidth.php">Read More</a>
+                                <h2><a href="<?php echo $base_url; ?>blog-single">5 Desain Merchandise yang Menarik Perhatian Konsumen.</a></h2>
+                                <a class="read-more" href="<?php echo $base_url; ?>blog-fullwidth">Read More</a>
                             </div>
                         </div>
                         <div class="blog-item">
@@ -830,8 +830,8 @@
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.php">Cara Meningkatkan Penjualan Lewat Desain Sosial Media.</a></h2>
-                                <a class="read-more" href="blog-fullwidth.php">Read More</a>
+                                <h2><a href="<?php echo $base_url; ?>blog-single">Cara Meningkatkan Penjualan Lewat Desain Sosial Media.</a></h2>
+                                <a class="read-more" href="<?php echo $base_url; ?>blog-fullwidth">Read More</a>
                             </div>
                         </div>
                     </div>

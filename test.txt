@@ -1,0 +1,3 @@
+<?php require_once 'inc.baseurl.php'; ?>
+
+<a href="<?php echo $base_url; ?>about" class="theme-btn" style="color: white;">Show More</a>

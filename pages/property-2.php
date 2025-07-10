@@ -7,7 +7,7 @@
                         <div class="wpo-breadcumb-wrap">
                             <h2>Property</h2>
                             <ol class="wpo-breadcumb-wrap">
-                                <li><a href="index-2.php">Home</a></li>
+                                <li><a href="<?php echo $base_url; ?>index-2">Home</a></li>
                                 <li>Property</li>
                             </ol>
                         </div>
@@ -38,7 +38,7 @@
                                     <img src="assets/images/property/a.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="shop.php">Custom ID Card & Lanyard</a></h2>
+                                    <h2><a href="<?php echo $base_url; ?>shop">Custom ID Card & Lanyard</a></h2>
                                     <span>Desain eksklusif untuk identitas perusahaan Anda</span>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@
                                     <img src="assets/images/property/b.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="shop.php">Official AVA T-Shirt</a></h2>
+                                    <h2><a href="<?php echo $base_url; ?>shop">Official AVA T-Shirt</a></h2>
                                     <span>Apparel premium dengan branding elegan</span>
                                 </div>
                             </div>
@@ -60,7 +60,7 @@
                                     <img src="assets/images/property/c.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="shop.php">Minimalist Badge Holder</a></h2>
+                                    <h2><a href="<?php echo $base_url; ?>shop">Minimalist Badge Holder</a></h2>
                                     <span>Fungsional, cocok untuk event & perusahaan</span>
                                 </div>
                             </div>
@@ -71,7 +71,7 @@
                                     <img src="assets/images/property/d.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="shop.php">AVA Polo Corporate Edition</a></h2>
+                                    <h2><a href="<?php echo $base_url; ?>shop">AVA Polo Corporate Edition</a></h2>
                                     <span>Kenyamanan dan profesionalitas dalam satu tampilan</span>
                                 </div>
                             </div>
@@ -82,7 +82,7 @@
                                     <img src="assets/images/property/e.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="shop.php">Exclusive Branded Merchandise</a></h2>
+                                    <h2><a href="<?php echo $base_url; ?>shop">Exclusive Branded Merchandise</a></h2>
                                     <span>Souvenir premium untuk branding perusahaan & hadiah klien</span>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@
                                     <img src="assets/images/property/f.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="shop.php">Custom Product Packaging</a></h2>
+                                    <h2><a href="<?php echo $base_url; ?>shop">Custom Product Packaging</a></h2>
                                     <span>Kemasan elegan untuk hadiah, merchandise, atau produk</span>
                                 </div>
                             </div>

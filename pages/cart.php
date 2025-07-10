@@ -7,7 +7,7 @@
                         <div class="wpo-breadcumb-wrap">
                             <h2>Cart</h2>
                             <ol class="wpo-breadcumb-wrap">
-                                <li><a href="index-2.php">Home</a></li>
+                                <li><a href="<?php echo $base_url; ?>index-2">Home</a></li>
                                 <li>Cart</li>
                             </ol>
                         </div>
@@ -161,7 +161,7 @@
                                 </form>
                                 <div class="submit-btn-area">
                                     <ul>
-                                        <li><a class="theme-btn" href="shop.php">Continue Shopping <i
+                                        <li><a class="theme-btn" href="<?php echo $base_url; ?>shop">Continue Shopping <i
                                                     class="fa fa-angle-double-right"></i></a></li>
                                     </ul>
                                 </div>
@@ -176,7 +176,7 @@
 
                                 <div class="submit-btn-area">
                                     <ul>
-                                        <li><a class="theme-btn" href="checkout.php">Proceed to Checkout <i
+                                        <li><a class="theme-btn" href="<?php echo $base_url; ?>checkout">Proceed to Checkout <i
                                                     class="fa fa-angle-double-right"></i></a></li>
                                     </ul>
                                 </div>

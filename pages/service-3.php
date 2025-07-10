@@ -7,7 +7,7 @@
                         <div class="wpo-breadcumb-wrap">
                             <h2>Service</h2>
                             <ol class="wpo-breadcumb-wrap">
-                                <li><a href="index-2.php">Home</a></li>
+                                <li><a href="<?php echo $base_url; ?>index-2">Home</a></li>
                                 <li>Service</li>
                             </ol>
                         </div>
@@ -35,7 +35,7 @@
                             <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Design Logo</a></h3>
+                            <h3><a href="<?php echo $base_url; ?>shop">Design Logo</a></h3>
                             <p>Kami menciptakan logo yang pasti menarik secara visual, tetapi juga merepresentasikan identitas dan nilai inti dari brand Anda.</p>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                             <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Business Kit</a></h3>
+                            <h3><a href="<?php echo $base_url; ?>shop">Business Kit</a></h3>
                             <p>Paket lengkap untuk kebutuhan branding bisnis Anda terdiri dari kartu nama, kop surat, dan elemen visual lainnya yang profesional.</p>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                             <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Calligraphy</a></h3>
+                            <h3><a href="<?php echo $base_url; ?>shop">Calligraphy</a></h3>
                             <p>Kaligrafi digital dan manual untuk berbagai kebutuhan estetika seperti hiasan rumah, undangan, dekorasi, hingga branding eksklusif.</p>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                             <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Clothing</a></h3>
+                            <h3><a href="<?php echo $base_url; ?>shop">Clothing</a></h3>
                             <p>Desain pakaian kustom yang mencerminkan karakter brand Anda, cocok untuk komunitas, promosi, hingga kebutuhan perusahaan.</p>
                         </div>
                     </div>
@@ -79,7 +79,7 @@
                             <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Packaging Product</a></h3>
+                            <h3><a href="<?php echo $base_url; ?>shop">Packaging Product</a></h3>
                             <p>Desain kemasan produk yang menarik dan fungsional—membantu meningkatkan daya tarik visual dan nilai jual produk Anda.</p>
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                             <img src="assets/images/service/button.png" alt="">
                         </div>
                         <div class="wpo-service-text">
-                            <h3><a href="shop.php">Mascot/Character Design</a></h3>
+                            <h3><a href="<?php echo $base_url; ?>shop">Mascot/Character Design</a></h3>
                             <p>Karakter atau maskot unik yang dibuat khusus untuk merepresentasikan kepribadian brand Anda—ikonik, berkesan, dan penuh ekspresi.</p>
                         </div>
                     </div>

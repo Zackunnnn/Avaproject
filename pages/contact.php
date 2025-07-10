@@ -8,7 +8,7 @@
                         <div class="wpo-breadcumb-wrap">
                             <h2>Contact</h2>
                             <ol class="wpo-breadcumb-wrap">
-                                <li><a href="index-2.php">Home</a></li>
+                                <li><a href="<?php echo $base_url; ?>index-2">Home</a></li>
                                 <li>Contact</li>
                             </ol>
                         </div>

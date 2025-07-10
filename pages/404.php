@@ -7,7 +7,7 @@
                         <div class="wpo-breadcumb-wrap">
                             <h2>404</h2>
                             <ol class="wpo-breadcumb-wrap">
-                                <li><a href="index-2.php">Home</a></li>
+                                <li><a href="<?php echo $base_url; ?>index-2">Home</a></li>
                                 <li>404</li>
                             </ol>
                         </div>
@@ -29,7 +29,7 @@
                             <div class="error-message">
                                 <p>We’re sorry but we can’t seem to find the page you requested. This might be because
                                     you have typed the web address incorrectly.</p>
-                                <a href="index-2.php" class="theme-btn">Back to home</a>
+                                <a href="<?php echo $base_url; ?>index-2" class="theme-btn">Back to home</a>
                             </div>
                         </div>
                     </div>

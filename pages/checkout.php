@@ -1,4 +1,3 @@
-<?php include 'header.php'; ?>
 
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -269,5 +268,3 @@
             </div>
         </div>
         <!-- wpo-checkout-area end-->
-
-<?php include 'footer.php'; ?>

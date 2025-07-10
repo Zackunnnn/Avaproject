@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+
 
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -8,7 +8,7 @@
                         <div class="wpo-breadcumb-wrap">
                             <h2>FAQ</h2>
                             <ol class="wpo-breadcumb-wrap">
-                                <li><a href="index-2.php">Home</a></li>
+                                <li><a href="<?php echo $base_url; ?>index-2">Home</a></li>
                                 <li>FAQ</li>
                             </ol>
                         </div>
@@ -267,4 +267,3 @@
                 </div>
             </div>
         </div>
-<?php include 'footer.php'; ?>
