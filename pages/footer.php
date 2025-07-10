@@ -48,37 +48,37 @@
                                         <div class="instagram-wrap">
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/foter1.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter1.jpg" alt="https://www.instagram.com/antraskin/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/foter2.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter2.jpg" alt="https://www.instagram.com/bimbelmraza_/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/foter3.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter3.jpg" alt="https://www.instagram.com/purvoparfume/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/foter4.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter4.jpg" alt="https://www.instagram.com/serobana.id/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/foter5.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter5.jpg" alt="https://www.instagram.com/rooliaglow.id/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="assets/images/instragram/foter6.jpg" alt="">
+                                                    <img src="assets/images/instragram/foter6.jpg" alt="https://www.instagram.com/zahidah_official/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
