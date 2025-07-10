@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
         <!-- start of wpo-hero-section-1 -->
-        <section class="wpo-hero-slider ">
+        <section class="wpo-hero-slider first-section">
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
@@ -9,10 +9,10 @@
                             <div class="container">
                                 <div class="slide-content">
                                     <div data-swiper-parallax="300" class="slide-title-sub">
-                                        <span><i class="fi flaticon-placeholder"></i> Tucson, Arizona(AZ), 85719</span>
+                                        <span><i class="fi flaticon-placeholder"></i> DKI Jakarta, Indonesia</span>
                                     </div>
                                     <div data-swiper-parallax="300" class="slide-title">
-                                        <h2>Your Exclusive Haven of Luxury and Comfort</h2>
+                                        <h2>One-Stop Branding Solution</h2>
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
@@ -31,7 +31,7 @@
                                         <span><i class="fi flaticon-placeholder"></i> Tucson, Arizona(AZ), 85719</span>
                                     </div>
                                     <div data-swiper-parallax="300" class="slide-title">
-                                        <h2>Your Exclusive Haven of Luxury and Comfort</h2>
+                                        <h2>One-Stop Branding Solution</h2>
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
@@ -121,7 +121,7 @@
                         <span>Total Item Design</span>
                     </div>
                     <div class="features-content-item">
-                        <a href="blog.php" class="theme-btn" style="color: white;">Show More</a>
+                        <a href="about.php" class="theme-btn" style="color: white;">Show More</a>
                     </div>
                 </div>
             </div>
@@ -142,7 +142,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-7">
                                     <div class="wpo-section-title-s2">
-                                        <h2>modern <span>facilities</span> of the property.</h2>
+                                        <h2>Our Best<span>Service</span> Ava Design</h2>
                                     </div>
                                 </div>
                                 <div class="col-lg-5">
@@ -159,9 +159,8 @@
                                                 <span><img src="assets/images/service/1.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.php">concrete tile</a></h3>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor.
+                                                <h3><a href="service-3.php">Logo Design</a></h3>
+                                                <p>Kami menciptakan logo yang tak hanya estetis, tapi juga mencerminkan identitas dan nilai brand Anda secara menyeluruh.
                                                 </p>
                                             </div>
                                         </div>
@@ -172,9 +171,8 @@
                                                 <span><img src="assets/images/service/2.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.php">family room</a></h3>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor.
+                                                <h3><a href="service-3.php">Lanyard</a></h3>
+                                                <p>Desain lanyard kustom yang stylish dan profesional, cocok untuk event, perusahaan, maupun kebutuhan komunitas Anda.
                                                 </p>
                                             </div>
                                         </div>
@@ -185,9 +183,8 @@
                                                 <span><img src="assets/images/service/3.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.php">guest quaters</a></h3>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor.
+                                                <h3><a href="service-3.php">Calligraphy</a></h3>
+                                                <p>Sentuhan artistik pada setiap huruf, menciptakan karya seni yang unik dan personal untuk brand Anda.
                                                 </p>
                                             </div>
                                         </div>
@@ -198,9 +195,8 @@
                                                 <span><img src="assets/images/service/4.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.php">heated floors</a></h3>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor.
+                                                <h3><a href="service-3.php">Merchandise</a></h3>
+                                                <p>Dari ide ke produk : kami bantu wujudkan desain merchandise menarik untuk promosi, komunitas, atau brand Anda.
                                                 </p>
                                             </div>
                                         </div>
@@ -211,9 +207,8 @@
                                                 <span><img src="assets/images/service/5.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.php">swimming pool</a></h3>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor.
+                                                <h3><a href="service-3.php">Uniform</a></h3>
+                                                <p>Desain seragam yang fungsional dan estetik—kami menggabungkan kenyamanan dengan branding visual yang kuat.
                                                 </p>
                                             </div>
                                         </div>
@@ -224,9 +219,8 @@
                                                 <span><img src="assets/images/service/6.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.php">ocean view</a></h3>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor.
+                                                <h3><a href="service-3.php">Design Character</a></h3>
+                                                <p>Karakter dan maskot orisinal yang mencerminkan kepribadian brand Anda—unik, memorable, dan penuh ekspresi.
                                                 </p>
                                             </div>
                                         </div>
@@ -246,7 +240,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="wpo-section-title-s2">
-                            <h2>spilon squat <span>property</span> floor plans.</h2>
+                            <h2>Our Team <span>Member</span></h2>
+                            <h2>Ava Design</h2>
                         </div>
                         <div class="wpo-plan-wrap">
                             <div class="row">
@@ -256,27 +251,27 @@
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link" id="basement-tab" data-bs-toggle="tab"
                                                     href="#basement" role="tab" aria-controls="basement"
-                                                    aria-selected="true">Basement</a>
+                                                    aria-selected="true">Achmad Varis</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link active" id="ground-floor-tab" data-bs-toggle="tab"
                                                     href="#ground-floor" role="tab" aria-controls="ground-floor"
-                                                    aria-selected="false">ground floor</a>
+                                                    aria-selected="false">Najwa Sabilla</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link" id="first-floor-tab" data-bs-toggle="tab"
                                                     href="#first-floor" role="tab" aria-controls="first-floor"
-                                                    aria-selected="false">1st floor</a>
+                                                    aria-selected="false">Irfan Janur</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link" id="second-floor-tab" data-bs-toggle="tab"
                                                     href="#second-floor" role="tab" aria-controls="second-floor"
-                                                    aria-selected="false">2nd floor</a>
+                                                    aria-selected="false">Naufal Ammr</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
                                                 <a class="nav-link" id="rooftop-tab" data-bs-toggle="tab"
                                                     href="#rooftop" role="tab" aria-controls="rooftop"
-                                                    aria-selected="false">rooftop</a>
+                                                    aria-selected="false">Nabiel Syarof</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -288,13 +283,13 @@
                                                 <div class="wpo-plan-content-box">
                                                     <div class="wpo-plan-content">
                                                         <ul>
-                                                            <li>square feet <span>2,537</span></li>
-                                                            <li>car parking<span>2</span></li>
-                                                            <li>half baths<span>4</span></li>
-                                                            <li>full baths<span>2</span></li>
-                                                            <li>bed room<span>5</span></li>
+                                                            <li style="color: white;"><span>SKILLS</span></li>
+                                                            <li style="color: white;">LOGO DESIGN<span>A</span></li>
+                                                            <li style="color: white;">TYPOGRAPHY CRAFT<span>A</span></li>
+                                                            <li style="color: white;">BRAND GUILDELINES<span>A</span></li>
+                                                            <li style="color: white;">CLIENT PITCHING<span>A</span></li>
                                                         </ul>
-                                                        <a href="#">started now</a>
+                                                        <a href="https://wa.me/6285772821484?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -304,13 +299,13 @@
                                                 <div class="wpo-plan-content-box">
                                                     <div class="wpo-plan-content">
                                                         <ul>
-                                                            <li>square feet <span>2,537</span></li>
-                                                            <li>car parking<span>2</span></li>
-                                                            <li>half baths<span>4</span></li>
-                                                            <li>full baths<span>2</span></li>
-                                                            <li>bed room<span>5</span></li>
+                                                            <li style="color: white;"><span>SKILLS</span></li>
+                                                            <li style="color: white;">BUSINESS STRATEGY<span>A</span></li>
+                                                            <li style="color: white;">AESTHETIC DIRECTION<span>A</span></li>
+                                                            <li style="color: white;">MARKET INSIGHT<span>B</span></li>
+                                                            <li style="color: white;">CLIENT HANDLING<span>A</span></li>
                                                         </ul>
-                                                        <a href="#">started now</a>
+                                                        <a href="https://wa.me/6282297913652?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -320,13 +315,13 @@
                                                 <div class="wpo-plan-content-box">
                                                     <div class="wpo-plan-content">
                                                         <ul>
-                                                            <li>square feet <span>2,537</span></li>
-                                                            <li>car parking<span>2</span></li>
-                                                            <li>half baths<span>4</span></li>
-                                                            <li>full baths<span>2</span></li>
-                                                            <li>bed room<span>5</span></li>
+                                                            <li style="color: white;"><span>SKILLS</span></li>
+                                                            <li style="color: white;">CHIBI DESIGN<span>A</span></li>
+                                                            <li style="color: white;">MASCOT IDENTITY<span>S</span></li>
+                                                            <li style="color: white;">TURNAROUND SHHET<span>B</span></li>
+                                                            <li style="color: white;">LINE CLEANLINES<span>A</span></li>
                                                         </ul>
-                                                        <a href="#">started now</a>
+                                                        <a href="https://wa.me/628115123523?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -336,13 +331,13 @@
                                                 <div class="wpo-plan-content-box">
                                                     <div class="wpo-plan-content">
                                                         <ul>
-                                                            <li>square feet <span>2,537</span></li>
-                                                            <li>car parking<span>2</span></li>
-                                                            <li>half baths<span>4</span></li>
-                                                            <li>full baths<span>2</span></li>
-                                                            <li>bed room<span>5</span></li>
+                                                            <li style="color: white;"><span>SKILLS</span></li>
+                                                            <li style="color: white;">FRONT-END CODING<span>A</span></li>
+                                                            <li style="color: white;">BACK-END LOGIC<span>B</span></li>
+                                                            <li style="color: white;">PROBLEM SOLVING<span>A</span></li>
+                                                            <li style="color: white;">NETWORK HANDLING<span>A</span></li>
                                                         </ul>
-                                                        <a href="#">started now</a>
+                                                        <a href="https://wa.me/6281398908980?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -352,13 +347,13 @@
                                                 <div class="wpo-plan-content-box">
                                                     <div class="wpo-plan-content">
                                                         <ul>
-                                                            <li>square feet <span>2,537</span></li>
-                                                            <li>car parking<span>2</span></li>
-                                                            <li>half baths<span>4</span></li>
-                                                            <li>full baths<span>2</span></li>
-                                                            <li>bed room<span>5</span></li>
+                                                            <li style="color: white;"><span>SKILLS</span></li>
+                                                            <li style="color: white;">DIGITAL PAINTING<span>A</span></li>
+                                                            <li style="color: white;">LINE PRECISION<span>A</span></li>
+                                                            <li style="color: white;">LIGHTING & SHADING<span>A</span></li>
+                                                            <li style="color: white;">CONCEPT DEVELOPMENT<span>A</span></li>
                                                         </ul>
-                                                        <a href="#">started now</a>
+                                                        <a href="https://wa.me/6285883457724?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -378,72 +373,13 @@
         </section>
         <!-- end wpo-plan-section-->
 
-        <!-- start wpo-payment-section -->
-        <section class="wpo-payment-section-s2 section-padding">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col col-lg-6 col-12">
-                        <div class="wpo-section-title">
-                            <small>estimate</small>
-                            <h2>your <span>payment</span> Estimate</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="wpo-payment-wrap">
-                    <div class="row">
-                        <div class="col col-lg-12">
-                            <div class="payment-form-area">
-                                <div class="form-group">
-                                    <label>purchase price:</label>
-                                    <input type="number" value="6382" id="purchase_price">
-                                </div>
-                                <div class="form-group">
-                                    <label>down payment %:</label>
-                                    <input type="number" value="20" id="down_payment">
-                                </div>
-                                <div class="form-group">
-                                    <label>loan term Year:</label>
-                                    <input type="number" value="35" id="loan_term">
-                                </div>
-                                <div class="form-group">
-                                    <label>interest rate %:</label>
-                                    <input type="number" value="5.5" id="interest_rate">
-                                </div>
-                                <div class="form-group text-center">
-                                    <button class="theme-btn" onclick="estimatePayment()">estimate payment</button>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col col-lg-12 col-12">
-                            <div class="payment-result">
-                                <div class="result-item">
-                                    <span>down payment:</span>
-                                    <h3 id="down_payment_value">$1276.40</h3>
-                                </div>
-                                <div class="result-item">
-                                    <span>monthly payment:</span>
-                                    <h3 id="monthly_payment_value">$12.82</h3>
-                                </div>
-                                <div class="result-item">
-                                    <span>Total loan amount:</span>
-                                    <h3 id="load_amount_value">$5386.41</h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </section>
-        <!-- end wpo-payment-section-->
-
         <!-- start of wpo-property-section --> 
         <section class="wpo-property-section section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 col-12">
                         <div class="wpo-section-title">
-                            <h2>Discover our <span>featured</span> property.</h2>
+                            <h2>Our <span>Property</span> Ava Studio</h2>
                         </div>
                     </div>
                 </div>
@@ -452,38 +388,56 @@
                 <div class="property-slider property-active owl-carousel">
                     <div class="card-single">
                         <div class="image">
-                            <img src="assets/images/property/1.jpg" alt="">
+                            <img src="assets/images/property/a.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="property-single.php">Beautiful Modern Villa</a></h2>
-                            <span>12 Avenue, New York</span>
+                            <h2><a href="shop.php">Custom ID Card & Lanyard</a></h2>
+                            <span>Desain eksklusif untuk identitas perusahaan Anda</span>
                         </div>
                     </div>
                     <div class="card-single">
                         <div class="image">
-                            <img src="assets/images/property/2.jpg" alt="">
+                            <img src="assets/images/property/b.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="property-single.php">Modern Hill House</a></h2>
-                            <span>120 Avenue, Willowville</span>
+                            <h2><a href="shop.php">Official AVA T-Shirt</a></h2>
+                            <span>Apparel premium dengan branding elegan</span>
                         </div>
                     </div>
                     <div class="card-single">
                         <div class="image">
-                            <img src="assets/images/property/3.jpg" alt="">
+                            <img src="assets/images/property/c.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="property-single.php">Lake View Modern House</a></h2>
-                            <span>121 Avenue, USA</span>
+                            <h2><a href="shop.php">Minimalis Badge Holder</a></h2>
+                            <span>Fungsional, cocok untuk event & perusahaan</span>
                         </div>
                     </div>
                     <div class="card-single">
                         <div class="image">
-                            <img src="assets/images/property/4.jpg" alt="">
+                            <img src="assets/images/property/d.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="property-single.php">Maplewood Estates</a></h2>
-                            <span>123 Oak Avenue, Willowville</span>
+                            <h2><a href="shop.php">AVA Polo Corporate Edition</a></h2>
+                            <span>Polo premium dengan branding elegan</span>
+                        </div>
+                    </div>
+                    <div class="card-single">
+                        <div class="image">
+                            <img src="assets/images/property/e.jpg" alt="">
+                        </div>
+                        <div class="text">
+                            <h2><a href="shop.php">Exclusive Branded Merchandise</a></h2>
+                            <span>Souvenir premium untuk branding perusahaan & hadiah klien</span>
+                        </div>
+                    </div>
+                    <div class="card-single">
+                        <div class="image">
+                            <img src="assets/images/property/f.jpg" alt="">
+                        </div>
+                        <div class="text">
+                            <h2><a href="shop.php">Custom Product Packaging</a></h2>
+                            <span>Kemasan elegan untuk hadiah, merchandise, atau produk</span>
                         </div>
                     </div>
                 </div>
@@ -572,7 +526,7 @@
                     <div class="row">
                         <div class="col-lg-7">
                             <div class="wpo-section-title-s2">
-                                <h2>Discover the Smiles <span>Behind Our</span> Success.</h2>
+                                <h2>What Our <span>Clients</span> Say</h2>
                             </div>
                         </div>
                     </div>
@@ -585,8 +539,8 @@
                                     <img src="assets/images/testimonial/1.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h4>Kristin Watson</h4>
-                                    <span>Home Owner</span>
+                                    <h4>Aulia Puspita</h4>
+                                    <span>Owner Rooliaglow</span>
                                 </div>
                             </div>
                             <div class="ratting">
@@ -600,9 +554,33 @@
                             </div>
                         </div>
                         <div class="testimonial-text">
-                            <p>“Quam viverra orci sagittis eu. Lorem ipsum dolor sit amet consectetur adipiscing elit.
-                                Adipiscing elit pellentesque habitant morbi tristique senectus et netus amet consectetur
-                                adipiscing suspendisse.” </p>
+                            <p>“Desain yang dibuat AVA Design benar-benar mencerminkan identitas brand kami.
+                                Respons cepat dan pelayanan yang sangat ramah.” </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="testimonial-top-wrap">
+                            <div class="testimonial-left-item">
+                                <div class="image">
+                                    <img src="assets/images/testimonial/1.jpg" alt="">
+                                </div>
+                                <div class="text">
+                                    <h4>Abdul Hamid</h4>
+                                    <span>Owner Rendang Serobana</span>
+                                </div>
+                            </div>
+                            <div class="ratting">
+                                <ul>
+                                    <li><i class="ti-star"></i></li>
+                                    <li><i class="ti-star"></i></li>
+                                    <li><i class="ti-star"></i></li>
+                                    <li><i class="ti-star"></i></li>
+                                    <li><i class="ti-star"></i></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="testimonial-text">
+                            <p>“Desain branding dari AVA Design bikin RM kami tampil beda. Mulai dari logo & packaging produk semua terlihat profesional.” </p>
                         </div>
                     </div>
                     <div class="item">
@@ -612,8 +590,8 @@
                                     <img src="assets/images/testimonial/2.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h4>Arlene McCoy</h4>
-                                    <span>Home Owner</span>
+                                    <h4>Al Djufri Family</h4>
+                                    <span>Owner Mraza</span>
                                 </div>
                             </div>
                             <div class="ratting">
@@ -627,9 +605,8 @@
                             </div>
                         </div>
                         <div class="testimonial-text">
-                            <p>“Quam viverra orci sagittis eu. Lorem ipsum dolor sit amet consectetur adipiscing elit.
-                                Adipiscing elit pellentesque habitant morbi tristique senectus et netus amet consectetur
-                                adipiscing suspendisse.” </p>
+                            <p>“Pelayanan sangat profesional dari awal sampai akhir.
+                                AVA Design bisa menangkap visi kami dengan sangat baik.” </p>
                         </div>
                     </div>
                 </div>
@@ -853,52 +830,35 @@
                     <div class="blog-slide-active owl-carousel">
                         <div class="blog-item">
                             <div class="image">
-                                <img src="assets/images/blog/img-1.jpg" alt="">
                                 <div class="thumb">
                                     <span>April 26, 2023</span>
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.php">Making Informed Decisions for Home
-                                        Financing.</a></h2>
-                                <a class="read-more" href="blog-single.php">Read More</a>
+                                <h2><a href="blog-single.php">Mengapa Branding Itu Penting: Lebih dari Sekadar Logo.</a></h2>
+                                <a class="read-more" href="blog-fullwidth.php">Read More</a>
                             </div>
                         </div>
                         <div class="blog-item">
                             <div class="image">
-                                <img src="assets/images/blog/img-2.jpg" alt="">
                                 <div class="thumb">
-                                    <span>April 24, 2023</span>
+                                    <span>Mei 16, 2024</span>
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.php">Selling Your Home? How to Stage it for
-                                        Maximum Impact.</a></h2>
-                                <a class="read-more" href="blog-single.php">Read More</a>
+                                <h2><a href="blog-single.php">5 Desain Merchandise yang Menarik Perhatian Konsumen.</a></h2>
+                                <a class="read-more" href="blog-fullwidth.php">Read More</a>
                             </div>
                         </div>
                         <div class="blog-item">
                             <div class="image">
-                                <img src="assets/images/blog/img-3.jpg" alt="">
                                 <div class="thumb">
-                                    <span>April 22, 2023</span>
+                                    <span>January 2, 2025</span>
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.php">Simple Steps to Enhance Your Home's Exterior.</a></h2>
-                                <a class="read-more" href="blog-single.php">Read More</a>
-                            </div>
-                        </div>
-                        <div class="blog-item">
-                            <div class="image">
-                                <img src="assets/images/blog/img-4.jpg" alt="">
-                                <div class="thumb">
-                                    <span>April 21, 2023</span>
-                                </div>
-                            </div>
-                            <div class="blog-content">
-                                <h2><a href="blog-single.php">Trends and Innovations Shaping the Industry.</a></h2>
-                                <a class="read-more" href="blog-single.php">Read More</a>
+                                <h2><a href="blog-single.php">Cara Meningkatkan Penjualan Lewat Desain Sosial Media.</a></h2>
+                                <a class="read-more" href="blog-fullwidth.php">Read More</a>
                             </div>
                         </div>
                     </div>

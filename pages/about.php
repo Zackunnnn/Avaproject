@@ -8,7 +8,7 @@
                         <div class="wpo-breadcumb-wrap">
                             <h2>About Us</h2>
                             <ol class="wpo-breadcumb-wrap">
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="index-2.php">Home</a></li>
                                 <li>About</li>
                             </ol>
                         </div>
@@ -141,7 +141,7 @@
                                                     <li style="color: rgb(255, 255, 255);">Visual Harmony <span>A</span></li>
                                                     <li style="color: rgb(255, 255, 255);">Rank Title <span>Brandsmith – Rank S</span></li>
                                                 </ul>
-                                                <a href="#">order now</a>
+                                                <a href="https://wa.me/6285772821484?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -168,7 +168,7 @@
                                                     <li style="color: rgb(255, 255, 255);">Client Handling <span>A</span></li>
                                                     <li style="color: rgb(255, 255, 255);">Rank Title <span>The Style Architect – Rank A</span></li>
                                                 </ul>
-                                                <a href="#">order now</a>
+                                                <a href="https://wa.me/6282297913652?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -195,7 +195,7 @@
                                                     <li style="color: rgb(255, 255, 255);">Turnaround Sheet <span>B</span></li>
                                                     <li style="color: rgb(255, 255, 255);">Rank Title <span>Chibi Virtuoso – Rank S</span></li>
                                                 </ul>
-                                                <a href="#">order now</a>
+                                                <a href="https://wa.me/628115123523?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -222,7 +222,7 @@
                                                     <li style="color: rgb(255, 255, 255);">Tech Adaptability <span>A</span></li>
                                                     <li style="color: rgb(255, 255, 255);">Rank Title <span>Codebreaker – Rank A</span></li>
                                                 </ul>
-                                                <a href="#">order now</a>
+                                                <a href="https://wa.me/6281398908980?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -249,7 +249,7 @@
                                                     <li style="color: rgb(255, 255, 255);">Digital Painting <span>A</span></li>
                                                     <li style="color: rgb(255, 255, 255);">Rank Title <span>Canvas Warden – Rank A</span></li>
                                                 </ul>
-                                                <a href="#">order now</a>
+                                                <a href="https://wa.me/6285883457724?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design" target="_blank">Contact Now</a>
                                             </div>
                                         </div>
                                     </div>

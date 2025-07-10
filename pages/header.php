@@ -63,7 +63,7 @@
                                             alt="logo"></a>
                                 </div>
                             </div>
-                            <div class="col-lg-8 col-md-1 col-1">
+                            <div class="col-lg-10 col-md-1 col-1">
                                 <div id="navbar" class="collapse navbar-collapse navigation-holder">
                                     <button class="menu-close"><i class="ti-close"></i></button>
                                     <ul class="nav navbar-nav mb-2 mb-lg-0">
@@ -127,19 +127,10 @@
                                             </ul>
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
+                                        <li><a href="login.php">Login</a></li>
+                                        <li><a href="register.php">Register</a></li>
                                     </ul>
                                 </div><!-- end of nav-collapse -->
-                            </div>
-                            <div class="col-lg-2 col-md-2 col-2">
-                                <div class="header-right">
-                                    <div class="btns">
-                                        <a href="about.php" class="price-btn">
-                                            <span>initial price:</span>
-                                            <p>$668,237</p>
-                                            <i class="ti-arrow-top-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div><!-- end of container -->

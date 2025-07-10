@@ -9,7 +9,7 @@
 <body>
     <div class="register-container">
         <h2>Register</h2>
-        <form method="post" action="register.php">
+        <form method="post" action="login.php">
             <div class="form-group">
                 <label for="email">Email</label>
                 <input type="email" name="email" id="email" placeholder="Enter your email" required>
@@ -28,7 +28,7 @@
             </div>
             <button type="submit" name="submit" class="register-button">Register</button>
             <div class="login-link">
-                Already have an account? <a href="login.html">Login</a>
+                Already have an account? <a href="login.php">Login</a>
             </div>
         </form>
     </div>
