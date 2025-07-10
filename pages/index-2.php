@@ -1,152 +1,4 @@
-<!DOCTYPE html>
-<html lang="zxx">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="wpOceans">
-    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
-    <title> avastudio.id</title>
-    <link href="assets/css/themify-icons.css" rel="stylesheet">
-    <link href="assets/css/flaticon.css" rel="stylesheet">
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/css/animate.css" rel="stylesheet">
-    <link href="assets/css/owl.carousel.css" rel="stylesheet">
-    <link href="assets/css/owl.theme.css" rel="stylesheet">
-    <link href="assets/css/slick.css" rel="stylesheet">
-    <link href="assets/css/slick-theme.css" rel="stylesheet">
-    <link href="assets/css/swiper.min.css" rel="stylesheet">
-    <link href="assets/css/owl.transitions.css" rel="stylesheet">
-    <link href="assets/css/jquery.fancybox.css" rel="stylesheet">
-    <link href="assets/css/odometer-theme-default.css" rel="stylesheet">
-    <link href="assets/sass/style.css" rel="stylesheet">
-</head>
-
-<body>
-
-    <!-- start page-wrapper -->
-    <div class="page-wrapper">
-        <!-- start preloader -->
-        <div class="preloader">
-            <div class="vertical-centered-box">
-                <div class="content">
-                    <div class="loader-circle"></div>
-                    <div class="loader-line-mask">
-                        <div class="loader-line"></div>
-                    </div>
-                    <img src="assets/images/preloader.png" alt="">
-                </div>
-            </div>
-        </div>
-        <!-- end preloader -->
-
-        <!-- start header -->
-        <header id="header">
-            <div class="wpo-site-header wpo-header-style-4">
-                <nav class="navigation navbar navbar-expand-lg navbar-light">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-3 col-md-3 col-3 d-lg-none dl-block">
-                                <div class="mobail-menu">
-                                    <button type="button" class="navbar-toggler open-btn">
-                                        <span class="sr-only">Toggle navigation</span>
-                                        <span class="icon-bar first-angle"></span>
-                                        <span class="icon-bar middle-angle"></span>
-                                        <span class="icon-bar last-angle"></span>
-                                    </button>
-                                </div>
-                            </div>
-                            <div class="col-lg-2 col-md-6 col-6">
-                                <div class="navbar-header">
-                                    <a class="navbar-brand" href="index-2.html"><img src="assets/images/logo_white.png"
-                                            alt="logo"></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-8 col-md-1 col-1">
-                                <div id="navbar" class="collapse navbar-collapse navigation-holder">
-                                    <button class="menu-close"><i class="ti-close"></i></button>
-                                    <ul class="nav navbar-nav mb-2 mb-lg-0">
-                                        <li class="menu-item-has-children">
-                                            <a class="active" href="#">Home</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="index.html">Home style 1</a></li>
-                                                <li><a class="active" href="index-2.html">Home style 2</a></li>
-                                                <li><a href="index-3.html">Home style 3</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="about.html">about us</a></li>
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Services</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="service.html">Services</a></li>
-                                                <li><a href="service-2.html">Service Style 2</a></li>
-                                                <li><a href="service-3.html">Service Style 3</a></li>
-                                                <li><a href="service-single.html">Service Single</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Property</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="property.html">Property</a></li>
-                                                <li><a href="property-2.html">Property Style 2</a></li>
-                                                <li><a href="property-single.html">Property Single</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Pages</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="team.html">Team</a></li>
-                                                <li><a href="team-single.html">Team Single</a></li>
-                                                <li><a href="shop.html">Shop</a></li>
-                                                <li><a href="shop-single.html">Shop Single</a></li>
-                                                <li><a href="cart.html">Cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="404.html">404 Error</a></li>
-                                                <li><a href="faq.html">FAQ</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="#">Blog</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="blog.html">Blog right sidebar</a></li>
-                                                <li><a href="blog-left-sidebar.html">Blog left sidebar</a></li>
-                                                <li><a href="blog-fullwidth.html">Blog fullwidth</a></li>
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Blog details</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="blog-single.html">Blog details right sidebar</a>
-                                                        </li>
-                                                        <li><a href="blog-single-left-sidebar.html">Blog details left
-                                                                sidebar</a></li>
-                                                        <li><a href="blog-single-fullwidth.html">Blog details
-                                                                fullwidth</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                    </ul>
-                                </div><!-- end of nav-collapse -->
-                            </div>
-                            <div class="col-lg-2 col-md-2 col-2">
-                                <div class="header-right">
-                                    <div class="btns">
-                                        <a href="about.html" class="price-btn">
-                                            <span>initial price:</span>
-                                            <p>$668,237</p>
-                                            <i class="ti-arrow-top-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- end of container -->
-                </nav>
-            </div>
-        </header>
-        <!-- end of header -->
+<?php include 'header.php'; ?>
 
         <!-- start of wpo-hero-section-1 -->
         <section class="wpo-hero-slider ">
@@ -164,7 +16,7 @@
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
-                                        <a href="about.html" class="theme-btn">get started</a>
+                                        <a href="about.php" class="theme-btn">get started</a>
                                     </div>
                                 </div>
                             </div>
@@ -183,7 +35,7 @@
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
-                                        <a href="about.html" class="theme-btn">get started</a>
+                                        <a href="about.php" class="theme-btn">get started</a>
                                     </div>
                                 </div>
                             </div>
@@ -201,7 +53,7 @@
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
-                                        <a href="about.html" class="theme-btn">get started</a>
+                                        <a href="about.php" class="theme-btn">get started</a>
                                     </div>
                                 </div>
                             </div>
@@ -219,7 +71,7 @@
                                     </div>
                                     <div class="clearfix"></div>
                                     <div data-swiper-parallax="500" class="slide-btns">
-                                        <a href="about.html" class="theme-btn">get started</a>
+                                        <a href="about.php" class="theme-btn">get started</a>
                                     </div>
                                 </div>
                             </div>
@@ -269,7 +121,7 @@
                         <span>square feet</span>
                     </div>
                     <div class="features-content-item">
-                        <a href="property.html" class="theme-btn">take a tour</a>
+                        <a href="property.php" class="theme-btn">take a tour</a>
                     </div>
                 </div>
             </div>
@@ -307,7 +159,7 @@
                                                 <span><img src="assets/images/service/1.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.html">concrete tile</a></h3>
+                                                <h3><a href="service-single.php">concrete tile</a></h3>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                                                     eiusmod tempor.
                                                 </p>
@@ -320,7 +172,7 @@
                                                 <span><img src="assets/images/service/2.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.html">family room</a></h3>
+                                                <h3><a href="service-single.php">family room</a></h3>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                                                     eiusmod tempor.
                                                 </p>
@@ -333,7 +185,7 @@
                                                 <span><img src="assets/images/service/3.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.html">guest quaters</a></h3>
+                                                <h3><a href="service-single.php">guest quaters</a></h3>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                                                     eiusmod tempor.
                                                 </p>
@@ -346,7 +198,7 @@
                                                 <span><img src="assets/images/service/4.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.html">heated floors</a></h3>
+                                                <h3><a href="service-single.php">heated floors</a></h3>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                                                     eiusmod tempor.
                                                 </p>
@@ -359,7 +211,7 @@
                                                 <span><img src="assets/images/service/5.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.html">swimming pool</a></h3>
+                                                <h3><a href="service-single.php">swimming pool</a></h3>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                                                     eiusmod tempor.
                                                 </p>
@@ -372,7 +224,7 @@
                                                 <span><img src="assets/images/service/6.svg" alt=""></span>
                                             </div>
                                             <div class="wpo-service-text">
-                                                <h3><a href="service-single.html">ocean view</a></h3>
+                                                <h3><a href="service-single.php">ocean view</a></h3>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                                                     eiusmod tempor.
                                                 </p>
@@ -603,7 +455,7 @@
                             <img src="assets/images/property/1.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="property-single.html">Beautiful Modern Villa</a></h2>
+                            <h2><a href="property-single.php">Beautiful Modern Villa</a></h2>
                             <span>12 Avenue, New York</span>
                         </div>
                     </div>
@@ -612,7 +464,7 @@
                             <img src="assets/images/property/2.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="property-single.html">Modern Hill House</a></h2>
+                            <h2><a href="property-single.php">Modern Hill House</a></h2>
                             <span>120 Avenue, Willowville</span>
                         </div>
                     </div>
@@ -621,7 +473,7 @@
                             <img src="assets/images/property/3.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="property-single.html">Lake View Modern House</a></h2>
+                            <h2><a href="property-single.php">Lake View Modern House</a></h2>
                             <span>121 Avenue, USA</span>
                         </div>
                     </div>
@@ -630,7 +482,7 @@
                             <img src="assets/images/property/4.jpg" alt="">
                         </div>
                         <div class="text">
-                            <h2><a href="property-single.html">Maplewood Estates</a></h2>
+                            <h2><a href="property-single.php">Maplewood Estates</a></h2>
                             <span>123 Oak Avenue, Willowville</span>
                         </div>
                     </div>
@@ -1007,9 +859,9 @@
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.html">Making Informed Decisions for Home
+                                <h2><a href="blog-single.php">Making Informed Decisions for Home
                                         Financing.</a></h2>
-                                <a class="read-more" href="blog-single.html">Read More</a>
+                                <a class="read-more" href="blog-single.php">Read More</a>
                             </div>
                         </div>
                         <div class="blog-item">
@@ -1020,9 +872,9 @@
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.html">Selling Your Home? How to Stage it for
+                                <h2><a href="blog-single.php">Selling Your Home? How to Stage it for
                                         Maximum Impact.</a></h2>
-                                <a class="read-more" href="blog-single.html">Read More</a>
+                                <a class="read-more" href="blog-single.php">Read More</a>
                             </div>
                         </div>
                         <div class="blog-item">
@@ -1033,8 +885,8 @@
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.html">Simple Steps to Enhance Your Home's Exterior.</a></h2>
-                                <a class="read-more" href="blog-single.html">Read More</a>
+                                <h2><a href="blog-single.php">Simple Steps to Enhance Your Home's Exterior.</a></h2>
+                                <a class="read-more" href="blog-single.php">Read More</a>
                             </div>
                         </div>
                         <div class="blog-item">
@@ -1045,8 +897,8 @@
                                 </div>
                             </div>
                             <div class="blog-content">
-                                <h2><a href="blog-single.html">Trends and Innovations Shaping the Industry.</a></h2>
-                                <a class="read-more" href="blog-single.html">Read More</a>
+                                <h2><a href="blog-single.php">Trends and Innovations Shaping the Industry.</a></h2>
+                                <a class="read-more" href="blog-single.php">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -1054,186 +906,5 @@
             </div>
         </section>
         <!-- end wpo-blog-section -->
+<?php include 'footer.php'; ?>
 
-        <!-- start of wpo-site-footer-section -->
-        <footer class="wpo-site-footer-s2">
-            <div class="row">
-                <div class="col-lg-8 order-lg-1 order-2">
-                    <div class="wpo-upper-footer">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <div class="col col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="widget newsletter-widget">
-                                        <div class="widget-title">
-                                            <h3>subscribe now</h3>
-                                        </div>
-                                        <form>
-                                            <div class="input-1">
-                                                <input type="email" class="form-control" placeholder="Enter your email:"
-                                                    required="">
-                                            </div>
-                                            <div class="submit clearfix">
-                                                <button type="submit">Subscrib now</button>
-                                            </div>
-                                        </form>
-                                        <div class="social">
-                                            <ul>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="ti-facebook"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="ti-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="ti-linkedin"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="ti-pinterest"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col col-lg-6 col-md-6 col-sm-12 col-12">
-                                    <div class="widget instagram-widget">
-                                        <div class="widget-title">
-                                            <h3>photo gallery</h3>
-                                        </div>
-                                        <div class="instagram-wrap">
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/1.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/2.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/3.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/4.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/5.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/6.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/7.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/8.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.html">
-                                                    <img src="assets/images/instragram/9.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> <!-- end container -->
-                    </div>
-                    <div class="wpo-lower-footer">
-                        <ul class="copyright">
-                            <li>Copyright &copy; 2023 <a href="#">Squat</a> || All Rights Reserved</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 order-lg-2 order-1">
-                    <div class="wpo-team-section">
-                        <div class="container">
-                            <h2>contact with our agent</h2>
-                            <div class="wpo-team-wrap-s2 owl-carousel">
-                                <div class="wpo-team-item">
-                                    <div class="wpo-team-img">
-                                        <img src="assets/images/team/1.jpg" alt="">
-                                    </div>
-                                    <div class="wpo-team-content">
-                                        <p>Brooklyn Simmons</p>
-                                        <span>property agent</span>
-                                        <h3>+00-569-845-79</h3>
-                                        <small><b>E-mail:</b> property@gmail.com</small>
-                                    </div>
-                                </div>
-                                <div class="wpo-team-item">
-                                    <div class="wpo-team-img">
-                                        <img src="assets/images/team/2.jpg" alt="">
-                                    </div>
-                                    <div class="wpo-team-content">
-                                        <p>Brooklyn Simmons</p>
-                                        <span>property agent</span>
-                                        <h3>+00-569-845-79</h3>
-                                        <span>E-mail: property@gmail.com</span>
-                                    </div>
-                                </div>
-                                <div class="wpo-team-item">
-                                    <div class="wpo-team-img">
-                                        <img src="assets/images/team/3.jpg" alt="">
-                                    </div>
-                                    <div class="wpo-team-content">
-                                        <p>Brooklyn Simmons</p>
-                                        <span>property agent</span>
-                                        <h3>+00-569-845-79</h3>
-                                        <span>E-mail: property@gmail.com</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- end of wpo-site-footer-section -->
-
-
-    </div>
-    <!-- end of page-wrapper -->
-
-    <!-- All JavaScript files
-    ================================================== -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <!-- Plugins for this template -->
-    <script src="assets/js/modernizr.custom.js"></script>
-    <script src="assets/js/payment-cal.js"></script>
-    <script src="assets/js/jquery-plugin-collection.js"></script>
-    <!-- Custom script for this template -->
-    <script src="assets/js/script.js"></script>
-</body>
-
-</html>
