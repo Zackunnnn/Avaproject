@@ -121,6 +121,7 @@ if (!isset($_SESSION)) {
 
             $p = $_GET['p'];
             if (in_array($p . '.php', $pages)) {
+				require_once 'inc.baseurl.php'; 
                 include($pages_dir . '/' . $p . '.php');
             } else {
                 echo 'Halaman tidak ditemukan! :(';

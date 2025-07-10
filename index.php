@@ -123,6 +123,7 @@ if (isset($_SESSION["role"])) {
 <!-- Container halaman -->
 
     <?php
+		
         $pages_dir = 'pages';
         if (!empty($_GET['p'])) {
             $pages = scandir($pages_dir, 0);
@@ -130,6 +131,7 @@ if (isset($_SESSION["role"])) {
 
             $p = $_GET['p'];
             if (in_array($p . '.php', $pages)) {
+				require_once 'inc.baseurl.php'; 
                 include($pages_dir . '/' . $p . '.php');
             } else {
                 echo 'Halaman tidak ditemukan! :(';
