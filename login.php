@@ -44,7 +44,7 @@ if (isset($_POST['btnLogin'])) {
 <head>
     <meta charset="UTF-8" />
     <title>Login Page</title>
-    <link rel="stylesheet" href="pages/assets/sass/login.css">
+    <link rel="stylesheet" href="assets/sass/login.css">
 </head>
 <body>
     <div class="login-container">

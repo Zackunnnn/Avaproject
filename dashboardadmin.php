@@ -14,21 +14,21 @@ if (!isset($_SESSION)) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="wpOceans">
-    <link rel="shortcut icon" type="image/png" href="pages/assets/images/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
     <title> avastudio.id</title>
-    <link href="pages/assets/css/themify-icons.css" rel="stylesheet">
-    <link href="pages/assets/css/flaticon.css" rel="stylesheet">
-    <link href="pages/assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="pages/assets/css/animate.css" rel="stylesheet">
-    <link href="pages/assets/css/owl.carousel.css" rel="stylesheet">
-    <link href="pages/assets/css/owl.theme.css" rel="stylesheet">
-    <link href="pages/assets/css/slick.css" rel="stylesheet">
-    <link href="pages/assets/css/slick-theme.css" rel="stylesheet">
-    <link href="pages/assets/css/swiper.min.css" rel="stylesheet">
-    <link href="pages/assets/css/owl.transitions.css" rel="stylesheet">
-    <link href="pages/assets/css/jquery.fancybox.css" rel="stylesheet">
-    <link href="pages/assets/css/odometer-theme-default.css" rel="stylesheet">
-    <link href="pages/assets/sass/style.css" rel="stylesheet">
+    <link href="assets/css/themify-icons.css" rel="stylesheet">
+    <link href="assets/css/flaticon.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="assets/css/owl.theme.css" rel="stylesheet">
+    <link href="assets/css/slick.css" rel="stylesheet">
+    <link href="assets/css/slick-theme.css" rel="stylesheet">
+    <link href="assets/css/swiper.min.css" rel="stylesheet">
+    <link href="assets/css/owl.transitions.css" rel="stylesheet">
+    <link href="assets/css/jquery.fancybox.css" rel="stylesheet">
+    <link href="assets/css/odometer-theme-default.css" rel="stylesheet">
+    <link href="assets/sass/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -43,7 +43,7 @@ if (!isset($_SESSION)) {
                     <div class="loader-line-mask">
                         <div class="loader-line"></div>
                     </div>
-                    <img src="pages/assets/images/preloader.png" alt="">
+                    <img src="assets/images/preloader.png" alt="">
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@ if (!isset($_SESSION)) {
                             </div>
                             <div class="col-lg-2 col-md-6 col-6">
                                 <div class="navbar-header">
-                                    <a class="navbar-brand" href="index-2.php"><img src="pages/assets/images/logo_white.png"
+                                    <a class="navbar-brand" href="index-2.php"><img src="assets/images/logo_white.png"
                                             alt="logo"></a>
                                 </div>
                             </div>
@@ -187,37 +187,37 @@ if (!isset($_SESSION)) {
                                         <div class="instagram-wrap">
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="pages/assets/images/instragram/1.jpg" alt="">
+                                                    <img src="assets/images/instragram/1.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="pages/assets/images/instragram/2.jpg" alt="">
+                                                    <img src="assets/images/instragram/2.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="pages/assets/images/instragram/3.jpg" alt="">
+                                                    <img src="assets/images/instragram/3.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="pages/assets/images/instragram/4.jpg" alt="">
+                                                    <img src="assets/images/instragram/4.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="pages/assets/images/instragram/5.jpg" alt="">
+                                                    <img src="assets/images/instragram/5.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
                                                 <a href="property-single.php">
-                                                    <img src="pages/assets/images/instragram/6.jpg" alt="">
+                                                    <img src="assets/images/instragram/6.jpg" alt="">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
@@ -268,14 +268,14 @@ if (!isset($_SESSION)) {
 
     <!-- All JavaScript files
     ================================================== -->
-    <script src="pages/assets/js/jquery.min.js"></script>
-    <script src="pages/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
     <!-- Plugins for this template -->
-    <script src="pages/assets/js/modernizr.custom.js"></script>
-    <script src="pages/assets/js/payment-cal.js"></script>
-    <script src="pages/assets/js/jquery-plugin-collection.js"></script>
+    <script src="assets/js/modernizr.custom.js"></script>
+    <script src="assets/js/payment-cal.js"></script>
+    <script src="assets/js/jquery-plugin-collection.js"></script>
     <!-- Custom script for this template -->
-    <script src="pages/assets/js/script.js"></script>
+    <script src="assets/js/script.js"></script>
 </body>
 
 </html>

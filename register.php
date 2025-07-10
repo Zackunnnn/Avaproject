@@ -25,7 +25,7 @@ if (isset($_POST['submit'])) {
 <head>
     <meta charset="UTF-8" />
     <title>Register Page</title>
-    <link rel="stylesheet" href="pages/assets/sass/register.css">
+    <link rel="stylesheet" href="assets/sass/register.css">
 </head>
 <body>
     <div class="register-container">
