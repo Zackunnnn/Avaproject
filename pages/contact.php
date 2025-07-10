@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+
 
         <!-- start wpo-page-title -->
         <section class="wpo-page-title">
@@ -130,5 +130,3 @@
             </div> <!-- end container -->
         </section>
         <!-- end wpo-contact-pg-section -->
-
-<?php include 'footer.php'; ?>

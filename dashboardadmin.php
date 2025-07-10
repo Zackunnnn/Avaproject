@@ -112,7 +112,7 @@ if (!isset($_SESSION)) {
         <!-- end of header -->
 
 <!-- Container halaman -->
-<div class="container">
+
     <?php
         $pages_dir = 'pages';
         if (!empty($_GET['p'])) {
@@ -129,7 +129,7 @@ if (!isset($_SESSION)) {
             include($pages_dir . '/index-2.php');
         }
     ?>
-</div>
+		<!-- end of container -->
 
         <!-- start of wpo-site-footer-section -->
         <footer class="wpo-site-footer-s2">
@@ -169,11 +169,6 @@ if (!isset($_SESSION)) {
                                                         <i class="ti-wa"></i>
                                                     </a>
                                                 </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="ti-pinterest"></i>
-                                                    </a>
-                                                </li>
                                             </ul>
                                         </div>
                                     </div>
@@ -185,38 +180,38 @@ if (!isset($_SESSION)) {
                                         </div>
                                         <div class="instagram-wrap">
                                             <div class="instagram-item">
-                                                <a href="dashboardadmin.php?p=property-single">
-                                                    <img src="assets/images/instragram/1.jpg" alt="">
+                                                <a href="property-single.php">
+                                                    <img src="assets/images/instragram/foter1.jpg" alt="https://www.instagram.com/antraskin/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="dashboardadmin.php?p=property-single">
-                                                    <img src="assets/images/instragram/2.jpg" alt="">
+                                                <a href="property-single.php">
+                                                    <img src="assets/images/instragram/foter2.jpg" alt="https://www.instagram.com/bimbelmraza_/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="dashboardadmin.php?p=property-single">
-                                                    <img src="assets/images/instragram/3.jpg" alt="">
+                                                <a href="property-single.php">
+                                                    <img src="assets/images/instragram/foter3.jpg" alt="https://www.instagram.com/purvoparfume/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="dashboardadmin.php?p=property-single">
-                                                    <img src="assets/images/instragram/4.jpg" alt="">
+                                                <a href="property-single.php">
+                                                    <img src="assets/images/instragram/foter4.jpg" alt="https://www.instagram.com/serobana.id/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="dashboardadmin.php?p=property-single">
-                                                    <img src="assets/images/instragram/5.jpg" alt="">
+                                                <a href="property-single.php">
+                                                    <img src="assets/images/instragram/foter5.jpg" alt="https://www.instagram.com/rooliaglow.id/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
                                             <div class="instagram-item">
-                                                <a href="dashboardadmin.php?p=property-single">
-                                                    <img src="assets/images/instragram/6.jpg" alt="">
+                                                <a href="property-single.php">
+                                                    <img src="assets/images/instragram/foter6.jpg" alt="https://www.instagram.com/zahidah_official/">
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>

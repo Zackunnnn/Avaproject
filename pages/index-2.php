@@ -1,6 +1,6 @@
 
         <!-- start of wpo-hero-section-1 -->
-        <section class="wpo-hero-slider first-section">
+        <section class="wpo-hero-slider">
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
