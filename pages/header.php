@@ -68,39 +68,20 @@
                                     <button class="menu-close"><i class="ti-close"></i></button>
                                     <ul class="nav navbar-nav mb-2 mb-lg-0">
                                         <li class="menu-item-has-children">
-                                            <a class="active" href="#">Home</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="index.php">Home style 1</a></li>
-                                                <li><a class="active" href="index-2.php">Home style 2</a></li>
-                                                <li><a href="index-3.php">Home style 3</a></li>
-                                            </ul>
+                                            <a class="active" href="index-2.php">Home</a>
                                         </li>
                                         <li><a href="about.php">about us</a></li>
                                         <li class="menu-item-has-children">
-                                            <a href="#">Services</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="service.php">Services</a></li>
-                                                <li><a href="service-2.php">Service Style 2</a></li>
-                                                <li><a href="service-3.php">Service Style 3</a></li>
-                                                <li><a href="service-single.php">Service Single</a></li>
-                                            </ul>
+                                            <a href="service-3.php">Services</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="#">Property</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="property.php">Property</a></li>
-                                                <li><a href="property-2.php">Property Style 2</a></li>
-                                                <li><a href="property-single.php">Property Single</a></li>
-                                            </ul>
+                                            <a href="property-2.php">Property</a>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="#">Pages</a>
                                             <ul class="sub-menu">
                                                 <li><a href="about.php">About</a></li>
-                                                <li><a href="team.php">Team</a></li>
-                                                <li><a href="team-single.php">Team Single</a></li>
                                                 <li><a href="shop.php">Shop</a></li>
-                                                <li><a href="shop-single.php">Shop Single</a></li>
                                                 <li><a href="cart.php">Cart</a></li>
                                                 <li><a href="checkout.php">Checkout</a></li>
                                                 <li><a href="404.php">404 Error</a></li>
@@ -108,23 +89,7 @@
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="#">Blog</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="blog.php">Blog right sidebar</a></li>
-                                                <li><a href="blog-left-sidebar.php">Blog left sidebar</a></li>
-                                                <li><a href="blog-fullwidth.php">Blog fullwidth</a></li>
-                                                <li class="menu-item-has-children">
-                                                    <a href="#">Blog details</a>
-                                                    <ul class="sub-menu">
-                                                        <li><a href="blog-single.php">Blog details right sidebar</a>
-                                                        </li>
-                                                        <li><a href="blog-single-left-sidebar.php">Blog details left
-                                                                sidebar</a></li>
-                                                        <li><a href="blog-single-fullwidth.php">Blog details
-                                                                fullwidth</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
+                                            <a href="blog-fullwidth.php">Blog</a>
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
                                         <li><a href="login.php">Login</a></li>

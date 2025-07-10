@@ -16,7 +16,7 @@
                                                     required="">
                                             </div>
                                             <div class="submit clearfix">
-                                                <button type="submit">Subscrib now</button>
+                                                <button type="submit">Subscribe now</button>
                                             </div>
                                         </form>
                                         <div class="social">
@@ -87,24 +87,6 @@
                                                     <i class="ti-instagram"></i>
                                                 </a>
                                             </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.php">
-                                                    <img src="assets/images/instragram/7.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.php">
-                                                    <img src="assets/images/instragram/8.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
-                                            <div class="instagram-item">
-                                                <a href="property-single.php">
-                                                    <img src="assets/images/instragram/9.jpg" alt="">
-                                                    <i class="ti-instagram"></i>
-                                                </a>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -113,7 +95,7 @@
                     </div>
                     <div class="wpo-lower-footer">
                         <ul class="copyright">
-                            <li>Copyright &copy; 2023 <a href="#">Squat</a> || All Rights Reserved</li>
+                            <li>Copyright & copy; 2025 <a href="#">Ava Design</a> || All Rights Reserved</li>
                         </ul>
                     </div>
                 </div>
@@ -123,36 +105,19 @@
                             <h2>contact with our agent</h2>
                             <div class="wpo-team-wrap-s2 owl-carousel">
                                 <div class="wpo-team-item">
-                                    <div class="wpo-team-img">
-                                        <img src="assets/images/team/1.jpg" alt="">
-                                    </div>
                                     <div class="wpo-team-content">
-                                        <p>Brooklyn Simmons</p>
-                                        <span>property agent</span>
-                                        <h3>+00-569-845-79</h3>
-                                        <small><b>E-mail:</b> property@gmail.com</small>
+                                        <p>Achmad Varis</p>
+                                        <span style="color:rgb(255, 214, 183);">Founder Ava Design</span>
+                                        <h3>+62-857-7282-1484</h3>
+                                        <small><b>E-mail:</b> varisananda971@gmail.com</small>
                                     </div>
                                 </div>
                                 <div class="wpo-team-item">
-                                    <div class="wpo-team-img">
-                                        <img src="assets/images/team/2.jpg" alt="">
-                                    </div>
                                     <div class="wpo-team-content">
-                                        <p>Brooklyn Simmons</p>
-                                        <span>property agent</span>
-                                        <h3>+00-569-845-79</h3>
-                                        <span>E-mail: property@gmail.com</span>
-                                    </div>
-                                </div>
-                                <div class="wpo-team-item">
-                                    <div class="wpo-team-img">
-                                        <img src="assets/images/team/3.jpg" alt="">
-                                    </div>
-                                    <div class="wpo-team-content">
-                                        <p>Brooklyn Simmons</p>
-                                        <span>property agent</span>
-                                        <h3>+00-569-845-79</h3>
-                                        <span>E-mail: property@gmail.com</span>
+                                        <p>Nabiel Syarof Azzaky</p>
+                                        <span style="color:rgb(255, 214, 183);">Admin Ava Design</span>
+                                        <h3>+62-858-8345-7724</h3>
+                                        <small><b>E-mail:</b> nabielsrfazky28@gmail.com</small>
                                     </div>
                                 </div>
                             </div>

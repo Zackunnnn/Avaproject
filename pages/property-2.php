@@ -25,7 +25,7 @@
                     <div class="col-lg-6 col-12">
                         <div class="wpo-section-title text-center">
                             <h2>Our <span>Property</span></h2>
-                            <h2>Ava Studio</h2>
+                            <h2 style="color:rgb(104, 13, 13);">Ava Studio</h2>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                                     <img src="assets/images/property/a.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="property-single.php">Custom ID Card & Lanyard</a></h2>
+                                    <h2><a href="shop.php">Custom ID Card & Lanyard</a></h2>
                                     <span>Desain eksklusif untuk identitas perusahaan Anda</span>
                                 </div>
                             </div>
@@ -50,7 +50,7 @@
                                     <img src="assets/images/property/b.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="property-single.php">Official AVA T-Shirt</a></h2>
+                                    <h2><a href="shop.php">Official AVA T-Shirt</a></h2>
                                     <span>Apparel premium dengan branding elegan</span>
                                 </div>
                             </div>
@@ -61,7 +61,7 @@
                                     <img src="assets/images/property/c.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="property-single.php">Minimalist Badge Holder</a></h2>
+                                    <h2><a href="shop.php">Minimalist Badge Holder</a></h2>
                                     <span>Fungsional, cocok untuk event & perusahaan</span>
                                 </div>
                             </div>
@@ -72,7 +72,7 @@
                                     <img src="assets/images/property/d.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="property-single.php">AVA Polo Corporate Edition</a></h2>
+                                    <h2><a href="shop.php">AVA Polo Corporate Edition</a></h2>
                                     <span>Kenyamanan dan profesionalitas dalam satu tampilan</span>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@
                                     <img src="assets/images/property/e.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="property-single.php">Exclusive Branded Merchandise</a></h2>
+                                    <h2><a href="shop.php">Exclusive Branded Merchandise</a></h2>
                                     <span>Souvenir premium untuk branding perusahaan & hadiah klien</span>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@
                                     <img src="assets/images/property/f.jpg" alt="">
                                 </div>
                                 <div class="text">
-                                    <h2><a href="property-single.php">Custom Product Packaging</a></h2>
+                                    <h2><a href="shop.php">Custom Product Packaging</a></h2>
                                     <span>Kemasan elegan untuk hadiah, merchandise, atau produk</span>
                                 </div>
                             </div>

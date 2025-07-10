@@ -24,7 +24,7 @@
                 <h2 class="hidden">Contact map</h2>
                 <div class="wpo-contact-map">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.9147703055!2d-74.11976314309273!3d40.69740344223377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbd!4v1547528325671"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.795521975154!2d106.8070283247512!3d-6.290584743698449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1fa5b9f59a3%3A0x772f6f7bc1fbc6c0!2sMenara%20165!5e0!3m2!1sen!2sid!4v1752076871685!5m2!1sen!2sid"
                         allowfullscreen></iframe>
                 </div>
             </div>
@@ -37,9 +37,7 @@
                     <div class="col-lg-8">
                         <div class="wpo-contact-form-area">
                             <div class="wpo-contact-title">
-                                <h2>Have Any Question?</h2>
-                                <p>It is a long established fact that a reader will be distracted
-                                    content of a page when looking.</p>
+                                <h2 style="color:rgb(104, 13, 13);">Have Any Question?</h2>
                             </div>
                             <form method="post" class="contact-validation-active" id="contact-form-main">
                                 <div>
@@ -57,10 +55,10 @@
                                 <div>
                                     <select name="subject" class="form-control">
                                         <option disabled="disabled" selected>Subject</option>
-                                        <option>Concrete Tile</option>
-                                        <option>Family Room</option>
-                                        <option>Guest Quaters</option>
-                                        <option>Heated Floors</option>
+                                        <option>Design Logo</option>
+                                        <option>Packaging Produk</option>
+                                        <option>Lanyard & ID Card</option>
+                                        <option>Clothing</option>
                                     </select>
                                 </div>
                                 <div class="fullwidth">
@@ -89,8 +87,8 @@
                                     </div>
                                 </div>
                                 <div class="office-info-text">
-                                    <h2>Call Us:</h2>
-                                    <p>+00 697-836-937</p>
+                                    <h2>Contact Us:</h2>
+                                    <p>+62-857-7282-1484</p>
                                 </div>
                             </div>
                             <div class="office-info-item">
@@ -101,7 +99,7 @@
                                 </div>
                                 <div class="office-info-text">
                                     <h2>E-mail Us:</h2>
-                                    <p>wosabinfo@gmail.com</p>
+                                    <p>avadesign123@gmail.com</p>
                                 </div>
                             </div>
                             <div class="office-info-item">
@@ -122,8 +120,8 @@
                                     </div>
                                 </div>
                                 <div class="office-info-text">
-                                    <h2>Our Location:</h2>
-                                    <p>8932, Natiska, USA.</p>
+                                    <h2>Location:</h2>
+                                    <p>Jln. Komp. Kohanas 6, Kebagusan, Jakarta Selatan.</p>
                                 </div>
                             </div>
                         </div>

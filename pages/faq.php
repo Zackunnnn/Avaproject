@@ -24,7 +24,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8 offset-lg-2">
                         <div class="wpo-section-title">
-                            <h2>Frequently Asked Question</h2>
+                            <h2 style="color:rgb(104, 13, 13);">Frequently Asked Question</h2>
                         </div>
                     </div>
                     <div class="col-lg-8 offset-lg-2">
@@ -225,14 +225,14 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="wpo-section-title">
-                            <h2>Do You Have Any Question?</h2>
+                            <h2 style="color:rgb(104, 13, 13);">Do You Have Any Question?</h2>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="question-touch">
-                            <h2>Get In Touch</h2>
+                            <h2 style="color:rgb(104, 13, 13);">Get In Touch</h2>
                             <form method="post" class="contact-validation-active" id="contact-form"
                                 novalidate="novalidate">
                                 <div class="half-col">

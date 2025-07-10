@@ -30,7 +30,7 @@
                                     <h3><a href="shop-single.php">Design logo</a></h3>
                                     <span>Rp.500.000 - Rp.5.000.000</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -42,7 +42,7 @@
                                     <h3><a href="shop-single.php">Custom Gantungan Kunci Resin</a></h3>
                                     <span>Rp.13.000 - Rp.25.000</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -54,7 +54,7 @@
                                     <h3><a href="shop-single.php">Custom Kaos</a></h3>
                                     <span>Rp.75.000 - Rp.100.000</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -66,7 +66,7 @@
                                     <h3><a href="shop-single.php">Custom Kemeja</a></h3>
                                     <span>Rp.180.000 - Rp.230.000</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -75,10 +75,10 @@
                                     <img src="assets/images/shop/Steel-Computer-Chair.jpg" alt>
                                 </div>
                                 <div class="details">
-                                    <h3><a href="shop-single.php"></a>Custom Box</h3>
+                                    <h3><a href="shop-single.php">Custom Box</a></h3>
                                     <span>Rp.40.000 - Rp.80.000</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@
                                     <h3><a href="shop-single.php">Custom Lanyard</a></h3>
                                     <span>Rp.18.000 /pcs</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +102,7 @@
                                     <h3><a href="shop-single.php">Custom ID Card</a></h3>
                                     <span>Rp.13.000 /pcs</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@
                                     <h3><a href="shop-single.php">Custom Stiker Chrome & Vinyl</a></h3>
                                     <span>Rp.17.000 /pcs</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                                     <h3><a href="shop-single.php">Custom Name Card</a></h3>
                                     <span>Rp.100.000 /100pcs</span>
                                     <div class="add-to-cart">
-                                        <a href="#">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
+                                        <a href="cart.php">Masukkan Keranjang <i class="ti-shopping-cart"></i></a>
                                     </div>
                                 </div>
                             </div>
