@@ -32,7 +32,6 @@
                                                 <th class="product-2">Product Name</th>
                                                 <th class="pr">Quantity</th>
                                                 <th class="ptice">Price</th>
-                                                <th class="stock">Total Price</th>
                                                 <th class="remove remove-b">Action</th>
                                             </tr>
                                         </thead>
@@ -41,9 +40,8 @@
                                                 <td class="images"><img src="assets/images/cart/img-1.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
-                                                        <li class="first-cart"> Bev Accent Chair</li>
-                                                        <li>Brand : Humanscale</li>
-                                                        <li>Size : XL</li>
+                                                        <li class="first-cart"> Custom Polo Shirt</li>
+                                                        <li>120 pcs</li>
                                                     </ul>
                                                 </td>
                                                 <td class="stock">
@@ -53,8 +51,7 @@
                                                         </li>
                                                     </ul>
                                                 </td>
-                                                <td class="ptice">$ 250</td>
-                                                <td class="stock">$ 250</td>
+                                                <td class="ptice">Rp.100.000/pscs</td>
                                                 <td class="action">
                                                     <ul>
                                                         <li class="w-btn"><a data-bs-toggle="tooltip"
@@ -67,9 +64,8 @@
                                                 <td class="images"><img src="assets/images/cart/img-2.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
-                                                        <li class="first-cart">Black Timber Chairs</li>
-                                                        <li>Brand : Amia</li>
-                                                        <li>Size : 5 stick</li>
+                                                        <li class="first-cart">Custom Kemeja</li>
+                                                        <li>70 pcs</li>
                                                     </ul>
                                                 </td>
                                                 <td class="stock">
@@ -79,8 +75,7 @@
                                                         </li>
                                                     </ul>
                                                 </td>
-                                                <td class="ptice">$ 350</td>
-                                                <td class="stock">$ 350</td>
+                                                <td class="ptice">Rp.190.000/pcs</td>
                                                 <td class="action">
                                                     <ul>
                                                         <li class="w-btn"><a data-bs-toggle="tooltip"
@@ -93,9 +88,8 @@
                                                 <td class="images"><img src="assets/images/cart/img-3.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
-                                                        <li class="first-cart">Marble Side Table</li>
-                                                        <li>Brand : Liberty</li>
-                                                        <li>Size : XXL</li>
+                                                        <li class="first-cart">Custom Lanyard</li>
+                                                        <li>20 pcs</li>
                                                     </ul>
                                                 </td>
                                                 <td class="stock">
@@ -105,8 +99,7 @@
                                                         </li>
                                                     </ul>
                                                 </td>
-                                                <td class="ptice">$ 450</td>
-                                                <td class="stock">$ 450</td>
+                                                <td class="ptice">Rp.18.000/pcs</td>
                                                 <td class="action">
                                                     <ul>
                                                         <li class="w-btn"><a data-bs-toggle="tooltip"
@@ -119,9 +112,8 @@
                                                 <td class="images"><img src="assets/images/cart/img-4.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
-                                                        <li class="first-cart">Polygonal Vase</li>
-                                                        <li>Brand : Regal</li>
-                                                        <li>Size : L</li>
+                                                        <li class="first-cart">Custom ID Card</li>
+                                                        <li>45 pcs</li>
                                                     </ul>
                                                 </td>
                                                 <td class="stock">
@@ -131,8 +123,7 @@
                                                         </li>
                                                     </ul>
                                                 </td>
-                                                <td class="ptice">$ 550</td>
-                                                <td class="stock">$ 550</td>
+                                                <td class="ptice">Rp.13.000/pcs</td>
                                                 <td class="action">
                                                     <ul>
                                                         <li class="w-btn"><a data-bs-toggle="tooltip"
@@ -145,9 +136,8 @@
                                                 <td class="images"><img src="assets/images/cart/img-5.jpg" alt=""></td>
                                                 <td class="product">
                                                     <ul>
-                                                        <li class="first-cart">Steel Computer Chair</li>
-                                                        <li>Brand : Akhtar</li>
-                                                        <li>Size : M</li>
+                                                        <li class="first-cart">Custom Gantungan Kunci Resin</li>
+                                                        <li>80 pcs</li>
                                                     </ul>
                                                 </td>
                                                 <td class="stock">
@@ -157,8 +147,7 @@
                                                         </li>
                                                     </ul>
                                                 </td>
-                                                <td class="ptice">$ 550</td>
-                                                <td class="stock">$ 550</td>
+                                                <td class="ptice">Rp.15.000/pcs</td>
                                                 <td class="action">
                                                     <ul>
                                                         <li class="w-btn"><a data-bs-toggle="tooltip"
@@ -174,17 +163,14 @@
                                     <ul>
                                         <li><a class="theme-btn" href="shop.php">Continue Shopping <i
                                                     class="fa fa-angle-double-right"></i></a></li>
-                                        <li><button type="submit">Update Cart</button></li>
                                     </ul>
                                 </div>
                                 <div class="cart-product-list">
                                     <ul>
-                                        <li>Total product<span>( 05 )</span></li>
-                                        <li>Sub Price<span>$2250</span></li>
-                                        <li>Vat<span>$50</span></li>
-                                        <li>Eco Tax<span>$100</span></li>
-                                        <li>Delivery Charge<span>$100</span></li>
-                                        <li class="cart-b">Total Price<span>$2500</span></li>
+                                        <li>Total Produk<span>( 05 )</span></li>
+                                        <li>Biaya Pengemasan & Ekspedisi<span>Rp.100.000</span></li>
+                                        <li>Biaya Layanan (admin + handling)<span>Rp.50.000</span></li>
+                                        <li class="cart-b">Total Harga<span>Rp.752.000</span></li>
                                     </ul>
                                 </div>
 

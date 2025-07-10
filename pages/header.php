@@ -68,7 +68,7 @@
                                     <button class="menu-close"><i class="ti-close"></i></button>
                                     <ul class="nav navbar-nav mb-2 mb-lg-0">
                                         <li class="menu-item-has-children">
-                                            <a class="active" href="index-2.php">Home</a>
+                                            <a class="active" href="index-2.php" style="color: white">Home</a>
                                         </li>
                                         <li><a href="about.php">about us</a></li>
                                         <li class="menu-item-has-children">

@@ -22,18 +22,18 @@
                                         <div class="social">
                                             <ul>
                                                 <li>
-                                                    <a href="#">
+                                                    <a href="https://www.facebook.com/varis.varis.752">
                                                         <i class="ti-facebook"></i>
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">
-                                                        <i class="ti-twitter"></i>
+                                                    <a href="https://www.instagram.com/avadesign.id?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+                                                        <i class="ti-instagram"></i>
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">
-                                                        <i class="ti-linkedin"></i>
+                                                    <a href="https://wa.me/6285772821484?text=Halo%20saya%20tertarik%20dengan%20Ava%20Design">
+                                                        <i class="ti-wa"></i>
                                                     </a>
                                                 </li>
                                                 <li>

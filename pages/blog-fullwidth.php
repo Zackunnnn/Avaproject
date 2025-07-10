@@ -36,10 +36,10 @@
                                     </ul>
                                 </div>
                                 <div class="entry-details">
-                                    <h3><a href="blog-single.php">Kenapa Branding Visual Penting untuk Bisnismu?</a></h3>
-                                    <p>Branding bukan hanya soal logo. Ini adalah cara bisnismu tampil dan dikenang.
-                                        Di AVA Design, kami bantu kamu membangun identitas visual yang kuat dan konsisten.</p>
-                                    <a href="blog-single.php" class="read-more">READ MORE...</a>
+                                    <h3><a href="https://www.ruangkerja.id/blog/identitas-visual-untuk-bisnis?utm_source=chatgpt.com">Membangun Identitas Visual yang Kuat untuk Bisnis Anda</a></h3>
+                                    <p>Identitas visual menjadi hal yang penting untuk diterapkan dalam sebuah bisnis atau merek tertentu,
+                                        karena dapat membantu bisnis berkembang sesuai dengan target pasar yang sudah ditentukan.</p>
+                                    <a href="https://www.ruangkerja.id/blog/identitas-visual-untuk-bisnis?utm_source=chatgpt.com" class="read-more">READ MORE...</a>
                                 </div>
                             </div>
                             <div class="post format-standard">
@@ -51,10 +51,10 @@
                                     </ul>
                                 </div>
                                 <div class="entry-details">
-                                    <h3><a href="blog-single.php">Strategi Desain Visual untuk Meningkatkan Daya Tarik Brand.</a></h3>
-                                    <p>Desain yang efektif bukan hanya soal estetika, tapi juga strategi.
-                                        AVA Design menggabungkan kreativitas dan pemahaman brand untuk menciptakan visual yang berdampak.</p>
-                                    <a href="blog-single.php" class="read-more">READ MORE...</a>
+                                    <h3><a href="https://tapstudio.id/kenapa-visual-marketing-penting-dalam-bisnis-anda/?utm_source=chatgpt.com">Kenapa Visual Marketing Penting dalam Bisnis Anda?</a></h3>
+                                    <p>Visual marketing merupakan salah satu strategi penting dalam dunia bisnis modern. Dengan memanfaatkan elemen visual yang menarik,
+                                        perusahaan dapat meningkatkan pengenalan merek, meningkatkan penjualan, dan menciptakan hubungan yang lebih baik dengan konsumen</p>
+                                    <a href="https://tapstudio.id/kenapa-visual-marketing-penting-dalam-bisnis-anda/?utm_source=chatgpt.com" class="read-more">READ MORE...</a>
                                 </div>
                             </div>
 
@@ -74,10 +74,10 @@
                                     </ul>
                                 </div>
                                 <div class="entry-details">
-                                    <h3><a href="blog-single.php">Membangun Identitas Brand Melalui Desain Visual</a></h3>
-                                    <p>Desain bukan hanya soal estetika—ini tentang menyampaikan pesan yang tepat.
-                                        AVA Design hadir untuk membantu brand menemukan identitas visual yang kuat dan konsisten.</p>
-                                    <a href="blog-single.php" class="read-more">READ MORE...</a>
+                                    <h3><a href="https://www.ciputra.ac.id/vcd/membangun-citra-yang-kuat-melalui-branding-kreatif-dalam-visual-communication-design/?utm_source=chatgpt.com">Membangun Citra yang Kuat melalui Branding Kreatif</a></h3>
+                                    <p>Branding kreatif dalam visual communication design adalah kunci untuk membedakan merek Anda di tengah kebisingan pasar yang ramai. Ini bukan hanya tentang menciptakan logo yang menarik,
+                                        tetapi juga tentang bagaimana Anda menyampaikan pesan merek Anda secara konsisten dan berkesan kepada audiens Anda.</p>
+                                    <a href="https://www.ciputra.ac.id/vcd/membangun-citra-yang-kuat-melalui-branding-kreatif-dalam-visual-communication-design/?utm_source=chatgpt.com" class="read-more">READ MORE...</a>
                                 </div>
                             </div>
                         </div>
